@@ -1,1293 +1,1779 @@
 {
-  "header": {
-    "title": "Cho Thuê Mặt Bằng, Văn Phòng Hà Nội, Giá Rẻ, Mới Nhất 2024",
-    "description": "Có 368 tin đăng cho thuê mặt bằng, văn phòng ở Hà Nội. Giá rẻ, gần chợ, trường học, thích hợp kinh doanh, buôn bán nhỏ, mở quán cafe, quán ăn."
-  },
-  "body": [
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/02/15/img-1707991585130-1707991619220_1707991702.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/02/15/img-1707991585587-1707991629905_1707991674.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/02/15/img-1707991585565-1707991627915_1707991696.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/02/15/img-1707991585476-1707991627076_1707991696.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/02/15/img-1707991585498-1707991627318_1707991697.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/02/15/img-1707991585519-1707991627607_1707991697.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/02/15/img-1707991585433-1707991626242_1707991697.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/02/15/img-1707991585454-1707991626768_1707991698.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/02/15/img-1707991585368-1707991624649_1707991698.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/02/15/img-1707991585390-1707991625273_1707991698.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/02/15/img-1707991585345-1707991623988_1707991699.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/02/15/img-1707991585302-1707991622786_1707991700.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/02/15/img-1707991585323-1707991622104_1707991700.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/02/15/img-1707991585258-1707991621038_1707991700.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/02/15/img-1707991585280-1707991621522_1707991701.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/02/15/img-1707991585215-1707991620063_1707991701.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/02/15/img-1707991585237-1707991620446_1707991702.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/02/15/img-1707991585107-1707991618843_1707991702.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/02/15/img-1707991585130-1707991619220_1707991702.jpg"
-      ],
-      "header": {
-        "title": "Cho thuê nguyên căn vị trí đẹp",
-        "class": {
-          "content": "Chuyên mục: Cho thuê mặt bằng, văn phòng Quận Hà Đông",
-          "classType": "Cho thuê mặt bằng, văn phòng Quận Hà Đông"
-        },
-        "address": "Địa chỉ: Chiến Thắng, Phường Văn Quán, Quận Hà Đông, Hà Nội",
-        "attributes": {
-          "price": "30 triệu/tháng",
-          "acreage": "52m2",
-          "published": "3 ngày trước",
-          "hashtag": "646641"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "Cho thuê nguyên căn, làm phòng trọ, nhà ở, văn phòng. Đầy đủ nội thất, tiện nghi. Mặt tiền rộng rãi, đường ô tô tránh nhau, có chỗ đỗ xe ô tô."
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#646641" },
-          {
-            "name": "Khu vực",
-            "content": "Cho thuê mặt bằng, văn phòng Hà Nội"
-          },
-          {
-            "name": "Loại tin rao:",
-            "content": "Cho thuê mặt bằng, văn phòng"
-          },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin miễn phí" },
-          { "name": "Ngày đăng:", "content": "Thứ 5, 17:11 15/02/2024" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 3, 17:11 20/02/2024" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "Vũ Văn Doanh" },
-          { "name": "Điện thoại:", "content": "0392761257" },
-          { "name": "Zalo", "content": "0392761257" }
-        ]
-      }
+    "header": {
+        "title": "Cho Thuê Mặt Bằng, Cho Thuê Văn Phòng, Cửa Hàng, Kiot, Mới Nhất 2022",
+        "description": "Cho thuê mặt bằng - Kênh đăng tin cho thuê mặt bằng, cho thuê cửa hàng, cho thuê kiot số 1: giá rẻ, mặt tiền, khu đông dân cư, phù hợp kinh doanh."
     },
-    {
-      "images": [],
-      "header": {
-        "title": "Cho Thuê Mặt Bằng Mặt Đường 32",
-        "class": {
-          "content": "Chuyên mục: Cho thuê mặt bằng, văn phòng Quận Bắc Từ Liêm",
-          "classType": "Cho thuê mặt bằng, văn phòng Quận Bắc Từ Liêm"
+    "body": [
+        {
+            "images": [
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/22/l-p470661-2205240032-at-628bc521a44ed-1_1655846793.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/22/49947625-1239512099531093-1406786949775097856-n_1655846779.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/22/50012419-278459509516034-5318313970908528640-n_1655846779.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/22/50730735-2249389168667360-6173524706382053376-n_1655846779.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/22/50673350-811529362512515-7828540635354234880-n_1655846779.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/22/50853954-219321752350543-2869661185978925056-n_1655846779.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/22/l-p470661-2205240032-at-628bc521a44ed-1_1655846793.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/22/49947625-1239512099531093-1406786949775097856-n_1655846779.jpg"
+            ],
+            "header": {
+                "title": "Mặt Bằng – Văn Phòng cho thuê, mặt tiền căn góc đường xe hơi Trương Công Định, Phường 14, Tân Bình, 8x14m",
+                "class": {
+                    "content": "Chuyên mục: Cho thuê mặt bằng Quận Tân Bình",
+                    "classType": "Cho thuê mặt bằng Quận Tân Bình"
+                },
+                "address": "Địa chỉ: 62/1A Đường Trương Công Định, Phường 14, Quận Tân Bình, Hồ Chí Minh",
+                "attributes": {
+                    "price": "16 triệu/tháng",
+                    "acreage": "112m2",
+                    "published": "1 giờ trước",
+                    "hashtag": "602889"
+                }
+            },
+            "mainContent": {
+                "header": "Thông tin mô tả",
+                "content": [
+                    "+ Cho thuê Mặt Bằng – Văn Phòng đẹp và sang trọng mặt tiền tầng trệt Căn góc khu phân lô Bàu Cát, Phường 14, Quận Tân Bình.",
+                    "Địa chỉ: 62/1A-B Trương Công Định, Phường 14, Quận Tân Bình, TP.HCM.",
+                    "+ Diện tích: 8 x 14m .",
+                    "+ Tiện ích: Bề ngang lớn 8m được t hiết kế hiện đại, riêng biệt với cửa cuốn và cửa kính cường lực rất đẹp, mặt bằng đã tách làm 2 văn phòng lớn và thiết kế sang trọng, có sân để xe có mái che và WC riêng.",
+                    "+ Vị trí tuyệt vời: Toạ Lạc Khu Phân Lô Bàu Cát, Đối diện khu cao ốc chung Cư The HARMONA Trương Công Định Gần ngã ba Trường Chinh – Trương Công Định, Quận Tân Bình, , Sát ETOWN cộng hòa, Bệnh Viện Mỹ Đức, chợ Võ Thành Trang (Bà Quẹo), gần nhiều tòa cao ốc văn phòng, công ty, và nhiều trường đại học ….",
+                    "+ Nhà nằm ngay vị trí Góc đường Xe Hơi trong khu dân cư sầm uất, rất đông người qua lại, ở và làm việc.",
+                    "+ Là nơi lý tưởng để kinh doanh mọi ngành nghề: kinh doanh online, quán café, cơm văn phòng, ở và mở văn phòng đại diện, văn phòng công ty làm việc …",
+                    "Giá rất hợp lý: 16 triệu/tháng. (Giá giảm sâu và không tăng giá sau dịch).",
+                    "Từ Khóa: Văn phòng cho thuê hcm, văn phòng cho thuê quận Tân Bình, cho thuê văn phòng khu bàu cát. Cho thuê mặt bằng hcm, mặt bằng cho thuê hcm, cho thuê mặt bằng quận Tân Bình, Cho thuê mặt bằng Trương Công Định, mặt bằng cho thuê tân bình, mặt bằng cho thuê quận tân bình, cho thue mat bang hcm, mat bang cho thue hcm, mat bang cho thue tan binh …"
+                ]
+            },
+            "overview": {
+                "header": "Đặc điểm tin đăng",
+                "content": [
+                    {
+                        "name": "Mã tin:",
+                        "content": "#602889"
+                    },
+                    {
+                        "name": "Khu vực",
+                        "content": "Cho thuê mặt bằng Hồ Chí Minh"
+                    },
+                    {
+                        "name": "Loại tin rao:",
+                        "content": "Cho thuê mặt bằng"
+                    },
+                    {
+                        "name": "Đối tượng thuê:",
+                        "content": "Tất cả"
+                    },
+                    {
+                        "name": "Gói tin:",
+                        "content": "Tin thường"
+                    },
+                    {
+                        "name": "Ngày đăng:",
+                        "content": "Thứ 4, 15:44 10/08/2022"
+                    },
+                    {
+                        "name": "Ngày hết hạn:",
+                        "content": "Thứ 4, 13:44 17/08/2022"
+                    }
+                ]
+            },
+            "contact": {
+                "header": "Thông tin liên hệ",
+                "content": [
+                    {
+                        "name": "Liên hệ:",
+                        "content": "hoangle2706"
+                    },
+                    {
+                        "name": "Điện thoại:",
+                        "content": "0937554570"
+                    },
+                    {
+                        "name": "Zalo",
+                        "content": "0937554570"
+                    }
+                ]
+            }
         },
-        "address": "Địa chỉ: 8 Đường số 32, Phường Phúc Diễn, Quận Bắc Từ Liêm, Hà Nội",
-        "attributes": {
-          "price": "15 triệu/tháng",
-          "acreage": "50m2",
-          "published": "21/01/2024",
-          "hashtag": "645995"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "CHO THUÊ NHÀ MẶT ĐƯỜNG 32",
-          "DIỆN TÍCH: 50M VUÔNG",
-          "CÓ GÁC XÉP",
-          "ĐIỆN NƯỚC ĐẦY ĐỦ",
-          "LIÊN HỆ : 0988741489",
-          "......"
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#645995" },
-          {
-            "name": "Khu vực",
-            "content": "Cho thuê mặt bằng, văn phòng Hà Nội"
-          },
-          {
-            "name": "Loại tin rao:",
-            "content": "Cho thuê mặt bằng, văn phòng"
-          },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin miễn phí" },
-          { "name": "Ngày đăng:", "content": "Chủ Nhật, 23:19 21/01/2024" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 6, 23:19 26/01/2024" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "Nguyễn Đức Thắng" },
-          { "name": "Điện thoại:", "content": "0982280528" },
-          { "name": "Zalo", "content": "0982280528" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/01/03/z5002871713309-d8ce4a00c12c10c0bb2c3bb53065035a_1704294212.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/01/03/z5002871702340-4125ac5d6647328f2a9c2c883bd0eef6_1704294207.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/01/03/z5002871703036-f38d8a283786837918539b94515170c1_1704294207.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/01/03/z5002871706020-3714693ab5343d566d46495e9c138e58_1704294210.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/01/03/z5002871711304-77139a4022d49193c7a958f89c460d6d_1704294212.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/01/03/z5002871713309-d8ce4a00c12c10c0bb2c3bb53065035a_1704294212.jpg"
-      ],
-      "header": {
-        "title": "Cho thuê cửa hàng (có thể ở ngay)",
-        "class": {
-          "content": "Chuyên mục: Cho thuê mặt bằng, văn phòng Quận Cầu Giấy",
-          "classType": "Cho thuê mặt bằng, văn phòng Quận Cầu Giấy"
+        {
+            "images": [
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/03/z3616101876318-f4aaaa35f92150c39a20eda805347bba_1659534373.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/03/z3616101882588-eebb0cb7b8a09dbe1059720934a7766d_1659534366.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/03/z3616101873988-a316d97d58e26015ab53341d8f813458_1659534369.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/03/z3616101876318-f4aaaa35f92150c39a20eda805347bba_1659534373.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/03/z3616101882588-eebb0cb7b8a09dbe1059720934a7766d_1659534366.jpg"
+            ],
+            "header": {
+                "title": "Cho thuê mặt bằng mặt tiền đường Quận 4. Làm VP, Spa, Nail, Tóc",
+                "class": {
+                    "content": "Chuyên mục: Cho thuê mặt bằng Quận 4",
+                    "classType": "Cho thuê mặt bằng Quận 4"
+                },
+                "address": "Địa chỉ: 12, Phường 6, Quận 4, Hồ Chí Minh",
+                "attributes": {
+                    "price": "10 triệu/tháng",
+                    "acreage": "32m2",
+                    "published": "6 giờ trước",
+                    "hashtag": "605337"
+                }
+            },
+            "mainContent": {
+                "header": "Thông tin mô tả",
+                "content": [
+                    "- Chính chủ gửi cho thuê mặt bằng, mặt tiền đường nội bộ đường số Quận 4",
+                    "- Mặt bằng nằm gần đường Hoàng Diệu, đường Khánh Hội và đường 45, khu dân cư đông đúc, buôn bán sầm uất, an ninh...",
+                    "- Mặt bằng có chỗ đậu xe ôtô, có lối đi riêng-không chung chủ, có vách ngăn, có toilet riêng",
+                    "- Diện tích: 4m x 8m = 32m2",
+                    "- Mặt bằng thích hơp cho thuê văn phòng, nhà thuốc, Spa, Nail, Tóc...",
+                    "- Ưu tiên văn phòng ký hợp đồng thuê dài hạn",
+                    "- Chi tiết vui lòng gọi Chúng tôi 0768919886 để được tư vấn và xem nhà, mặt bằng thực tế",
+                    "Cảm ơn Anh, Chị đã xem tin!"
+                ]
+            },
+            "overview": {
+                "header": "Đặc điểm tin đăng",
+                "content": [
+                    {
+                        "name": "Mã tin:",
+                        "content": "#605337"
+                    },
+                    {
+                        "name": "Khu vực",
+                        "content": "Cho thuê mặt bằng Hồ Chí Minh"
+                    },
+                    {
+                        "name": "Loại tin rao:",
+                        "content": "Cho thuê mặt bằng"
+                    },
+                    {
+                        "name": "Đối tượng thuê:",
+                        "content": "Tất cả"
+                    },
+                    {
+                        "name": "Gói tin:",
+                        "content": "Tin thường"
+                    },
+                    {
+                        "name": "Ngày đăng:",
+                        "content": "Thứ 4, 10:39 10/08/2022"
+                    },
+                    {
+                        "name": "Ngày hết hạn:",
+                        "content": "Thứ 7, 20:49 13/08/2022"
+                    }
+                ]
+            },
+            "contact": {
+                "header": "Thông tin liên hệ",
+                "content": [
+                    {
+                        "name": "Liên hệ:",
+                        "content": "Quang Minh Phú"
+                    },
+                    {
+                        "name": "Điện thoại:",
+                        "content": "0768919886"
+                    },
+                    {
+                        "name": "Zalo",
+                        "content": "0768919886"
+                    }
+                ]
+            }
         },
-        "address": "Địa chỉ: 17, ngách 58/12, ngõ 58 Nguyễn Khánh Toàn, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",
-        "attributes": {
-          "price": "5 triệu/tháng",
-          "acreage": "15m2",
-          "published": "03/01/2024",
-          "hashtag": "644680"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "Cho thuê cửa hàng (có thể ở ngay)",
-          "Giá:",
-          "- Điện: 4k/số",
-          "- Nước: 25k/mét khối",
-          "- Mạng: 50k/tháng",
-          "Đặc điểm:",
-          "- Có gác xép ở được, phòng rộng 15m2",
-          "- Nhà để xe miễn phí",
-          "- Vệ sinh khép kín, có bình nóng lạnh + điều hòa",
-          "️ Liên hệ: 0838324648 (cô Hương) / 0918205432 (chú Thảo)"
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#644680" },
-          {
-            "name": "Khu vực",
-            "content": "Cho thuê mặt bằng, văn phòng Hà Nội"
-          },
-          {
-            "name": "Loại tin rao:",
-            "content": "Cho thuê mặt bằng, văn phòng"
-          },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin miễn phí" },
-          { "name": "Ngày đăng:", "content": "Thứ 4, 22:04 03/01/2024" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 2, 22:04 08/01/2024" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "Cô Hương" },
-          { "name": "Điện thoại:", "content": "0838324648" },
-          { "name": "Zalo", "content": "0838324648" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/img-3207_1702735171.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/img-3381_1702735171.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/img-3206_1702735171.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/img-3207_1702735171.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/img-3381_1702735171.jpg"
-      ],
-      "header": {
-        "title": "Chính chủ cho thuê nhà 172 giáp bát",
-        "class": {
-          "content": "Chuyên mục: Cho thuê mặt bằng, văn phòng Quận Hoàng Mai",
-          "classType": "Cho thuê mặt bằng, văn phòng Quận Hoàng Mai"
+        {
+            "images": [],
+            "header": {
+                "title": "CHO THUÊ MẶT BẰNG 4X16 , đường nội bộ 12 mét",
+                "class": {
+                    "content": "Chuyên mục: Cho thuê mặt bằng Quận 8",
+                    "classType": "Cho thuê mặt bằng Quận 8"
+                },
+                "address": "Địa chỉ: Đường Cao Lỗ, Phường 4, Quận 8, Hồ Chí Minh",
+                "attributes": {
+                    "price": "3 triệu/tháng",
+                    "acreage": "70m2",
+                    "published": "8 giờ trước",
+                    "hashtag": "605629"
+                }
+            },
+            "mainContent": {
+                "header": "Thông tin mô tả",
+                "content": [
+                    "CHO THUÊ MẶT BẰNG 4X16, ĐƯỜNG NỘI BỘ 12 MÉT",
+                    "PHÍA TRƯỚC CÔNG VIÊN NỘI BỘ, THƯỜNG XUYÊN CÓ NGƯỜI QUA LẠI SINH HOẠT.",
+                    "ĐƯỜNG MẬT ĐỘ DÂN CƯ Ở ĐÔNG , XE CỘ LƯU THÔNG NHIỀU",
+                    "CÓ CHỖ ĐẬU OTO, VÀ BẾP NẤU RIÊNG VÀ TOLET RIÊNG.",
+                    "CÓ THỂ TĂNG THÊM DIỆN TÍCH KINH DOANH KHI CẦN THIẾT."
+                ]
+            },
+            "overview": {
+                "header": "Đặc điểm tin đăng",
+                "content": [
+                    {
+                        "name": "Mã tin:",
+                        "content": "#605629"
+                    },
+                    {
+                        "name": "Khu vực",
+                        "content": "Cho thuê mặt bằng Hồ Chí Minh"
+                    },
+                    {
+                        "name": "Loại tin rao:",
+                        "content": "Cho thuê mặt bằng"
+                    },
+                    {
+                        "name": "Đối tượng thuê:",
+                        "content": "Tất cả"
+                    },
+                    {
+                        "name": "Gói tin:",
+                        "content": "Tin miễn phí"
+                    },
+                    {
+                        "name": "Ngày đăng:",
+                        "content": "Thứ 4, 08:06 10/08/2022"
+                    },
+                    {
+                        "name": "Ngày hết hạn:",
+                        "content": "Thứ 2, 08:06 15/08/2022"
+                    }
+                ]
+            },
+            "contact": {
+                "header": "Thông tin liên hệ",
+                "content": [
+                    {
+                        "name": "Liên hệ:",
+                        "content": "Hồng Nhật"
+                    },
+                    {
+                        "name": "Điện thoại:",
+                        "content": "0764997999"
+                    },
+                    {
+                        "name": "Zalo",
+                        "content": "0764997999"
+                    }
+                ]
+            }
         },
-        "address": "Địa chỉ: 172 giáp bát Giáp Bát, Phường Giáp Bát, Quận Hoàng Mai, Hà Nội",
-        "attributes": {
-          "price": "15 triệu/tháng",
-          "acreage": "120m2",
-          "published": "16/12/2023",
-          "hashtag": "643374"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "Cho thuê mặt phố Giáp Bát số nhà 172 , Hoàng mai khu đông dân cư sầm uất, gần chợ, trường học cấp 1,2 , đông văn phòng",
-          "Tầng 4: DT 120m cho thuê văn phòng điều hòa âm Trần đầy đủ giá 15 trieu",
-          "Tầng 1 KD: 5m giá 3 triệu.",
-          "Vị trí khoanh tròn mầu đen",
-          "Ai cần LH: 0971515695.",
-          "Tòa nhà mới 100% thang máy, điều hòa âm trần nóng lạnh đầy đủ có hầm để xe"
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#643374" },
-          {
-            "name": "Khu vực",
-            "content": "Cho thuê mặt bằng, văn phòng Hà Nội"
-          },
-          {
-            "name": "Loại tin rao:",
-            "content": "Cho thuê mặt bằng, văn phòng"
-          },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin thường" },
-          { "name": "Ngày đăng:", "content": "Thứ 7, 21:00 16/12/2023" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 5, 21:00 21/12/2023" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "Nguyễn thu hang" },
-          { "name": "Điện thoại:", "content": "0971515695" },
-          { "name": "Zalo", "content": "0971515695" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/70900c36a55c0d02544d_1702717670.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/e5f9bc74151ebd40e40f_1702717671.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/046e95f83c9294cccd83_1702717664.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/80c7570dca6762393b76_1702717660.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/630a91a138cb9095c9da_1702717668.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/70900c36a55c0d02544d_1702717670.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/e5f9bc74151ebd40e40f_1702717671.jpg"
-      ],
-      "header": {
-        "title": "Cho thuê căn shophouse khối đế 115m2, mặt tiền 6,5m (2 tầng x 57,5m2/1 tầng) tại tòa chung cư N05 - dự án",
-        "class": {
-          "content": "Chuyên mục: Cho thuê mặt bằng, văn phòng Quận Bắc Từ Liêm",
-          "classType": "Cho thuê mặt bằng, văn phòng Quận Bắc Từ Liêm"
+        {
+            "images": [
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/09/z2481579063887-ef645bffdb876dba706f36f7fa7807d3_1660016274.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/09/957a0bd906d4f38aaac5_1660016271.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/09/67694dcf40c2b59cecd3_1660016272.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/09/f3bcdf16d21b27457e0a_1660016274.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/09/z2481579063887-ef645bffdb876dba706f36f7fa7807d3_1660016274.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/09/957a0bd906d4f38aaac5_1660016271.jpg"
+            ],
+            "header": {
+                "title": "CHO THUÊ MBKD PHỐ ĐẠI LINH, MỄ TRÌ, TỐ HỮU",
+                "class": {
+                    "content": "Chuyên mục: Cho thuê mặt bằng Quận Nam Từ Liêm",
+                    "classType": "Cho thuê mặt bằng Quận Nam Từ Liêm"
+                },
+                "address": "Địa chỉ: 50 Đại Linh, Phường Trung Văn, Quận Nam Từ Liêm, Hà Nội",
+                "attributes": {
+                    "price": "5 triệu/tháng",
+                    "acreage": "30m2",
+                    "published": "1 ngày trước",
+                    "hashtag": "605605"
+                }
+            },
+            "mainContent": {
+                "header": "Thông tin mô tả",
+                "content": [
+                    "MBKD 54 Phố Đại Linh Trung Văn Nam Từ Liêm Hà Nội",
+                    "Vị Trí: Gần Big C Thăng Long, Trung Tâm Hội Nghị Quốc Gia, Mĩ Trì, Tố Hữu, Trung Văn",
+                    "Diện Tích:30m2"
+                ]
+            },
+            "overview": {
+                "header": "Đặc điểm tin đăng",
+                "content": [
+                    {
+                        "name": "Mã tin:",
+                        "content": "#605605"
+                    },
+                    {
+                        "name": "Khu vực",
+                        "content": "Cho thuê mặt bằng Hà Nội"
+                    },
+                    {
+                        "name": "Loại tin rao:",
+                        "content": "Cho thuê mặt bằng"
+                    },
+                    {
+                        "name": "Đối tượng thuê:",
+                        "content": "Tất cả"
+                    },
+                    {
+                        "name": "Gói tin:",
+                        "content": "Tin thường"
+                    },
+                    {
+                        "name": "Ngày đăng:",
+                        "content": "Thứ 3, 10:38 09/08/2022"
+                    },
+                    {
+                        "name": "Ngày hết hạn:",
+                        "content": "Thứ 3, 10:38 23/08/2022"
+                    }
+                ]
+            },
+            "contact": {
+                "header": "Thông tin liên hệ",
+                "content": [
+                    {
+                        "name": "Liên hệ:",
+                        "content": "Trần Văn Định"
+                    },
+                    {
+                        "name": "Điện thoại:",
+                        "content": "0377896738"
+                    },
+                    {
+                        "name": "Zalo",
+                        "content": "0377896738"
+                    }
+                ]
+            }
         },
-        "address": "Địa chỉ: Tân Xuân, Phường Đông Ngạc, Quận Bắc Từ Liêm, Hà Nội",
-        "attributes": {
-          "price": "28 triệu/tháng",
-          "acreage": "115m2",
-          "published": "16/12/2023",
-          "hashtag": "643359"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "Chính chủ cần cho thuê căn shophouse khối đế 115m2, mặt",
-          "tiền 6,5m (2 tầng x 57,5m2/1 tầng) tại tòa chung cư N05 - dự án",
-          "Golden Time. Vị trí cực đẹp: Đối diện công viên, một mặt áp góc",
-          "giáp mặt đường lớn Tân Xuân, phường Đông Ngạc, Bắc Từ",
-          "Liêm, rất phù hợp để mở cửa hàng kinh doanh, văn phòng,",
-          "trung tâm giáo dục, siêu thị, v ... V ...",
-          "Hiện tại xung quanh đã có 6 tòa chung cư đi vào hoạt động,",
-          "dân cư về ở đông đúc, khoảng ~6.000 - 8.000 cư dân, đặc biệt",
-          "đây là dãy Shophouse duy nhất cho cả khu vực. Các căn bên",
-          "cạnh đang cho các thương hiệu lớn Higland Cafe, Canifa,",
-          "Vinmart, T - mart, Techcombank, Bibomart ... Thuê.",
-          "Vị trí giao thông cực kì thuận tiện: Ngay mặt đường lớn Tân",
-          "Xuân, Đối diện Ciputra, giáp đường Phạm Văn Đồng. Gần công viên",
-          "Hòa Bình, các trường đại học Mỏ, Tài chính, bệnh viện lớn.",
-          "Ai có nhu cầu thuê xin liên hệ A. Cường: 0962.686268",
-          "(Miễn qua trung gian)"
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#643359" },
-          {
-            "name": "Khu vực",
-            "content": "Cho thuê mặt bằng, văn phòng Hà Nội"
-          },
-          {
-            "name": "Loại tin rao:",
-            "content": "Cho thuê mặt bằng, văn phòng"
-          },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin thường" },
-          { "name": "Ngày đăng:", "content": "Thứ 7, 16:09 16/12/2023" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 5, 16:09 21/12/2023" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "A. Thụ" },
-          { "name": "Điện thoại:", "content": "0904133888" },
-          { "name": "Zalo", "content": "0904133888" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/z4935179373774-97f7d9c83a2745fcc868cb4c5c43d1c7_1702699404.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/406013727-299061679766376-6173676343280549151-n_1702699385.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/406047176-299061676433043-3050530693074683966-n_1702699385.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/z4931783668561-29a056b5784243aae6bc8e9f673b74e7_1702699386.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/z4931783670338-0c08be05a9e4e23db16ef543d9580257_1702699386.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/z4931783677716-51f6a4fd307ce7e59b94970aa975fc86_1702699386.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/z4931787518089-98cfe4245c305ee1c1d822ff2169433c_1702699386.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/z4935179369674-184eb507b276d89202bdc98d6da2980d_1702699387.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/z4935179375891-c21473e6157bbb0dd4a2b6a92ebf669c_1702699394.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/z4935179376587-fa5f4676e09bf297b138bcfa222a5600_1702699394.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/406209712-299061419766402-7381318823938944824-n_1702699404.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/z4935179257926-cc13ee5b6e29f474f821877067d63f9b_1702699404.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/z4935179260304-3f7f1d3d1c11a55f484666e3745c4998_1702699404.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/16/z4935179373774-97f7d9c83a2745fcc868cb4c5c43d1c7_1702699404.jpg"
-      ],
-      "header": {
-        "title": "Chính chủ cho thuê văn phòng mới hoàn thiện (hợp đồng lâu dài) Lê Trọng Tấn, Geleximco Hà Đông, HN",
-        "class": {
-          "content": "Chuyên mục: Cho thuê mặt bằng, văn phòng Quận Hà Đông",
-          "classType": "Cho thuê mặt bằng, văn phòng Quận Hà Đông"
+        {
+            "images": [
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/09/nha-kho-4x25-binh-hung-tuan-vo_1660012214.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/09/297266415-1261827064619879-3464409040708031226-n_1660011826.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/09/295974218-1256959398439979-4074236444705390993-n_1660011872.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/09/nha-kho-4x25-binh-hung-tuan-vo_1660012214.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/09/297266415-1261827064619879-3464409040708031226-n_1660011826.jpg"
+            ],
+            "header": {
+                "title": "Cho thuê Nhà, Kho, Bãi Phong Phú, Đa Phước, Bình Chánh",
+                "class": {
+                    "content": "Chuyên mục: Cho thuê mặt bằng Huyện Bình Chánh",
+                    "classType": "Cho thuê mặt bằng Huyện Bình Chánh"
+                },
+                "address": "Địa chỉ: Huyện Bình Chánh, Hồ Chí Minh",
+                "attributes": {
+                    "price": "8 triệu/tháng",
+                    "acreage": "100m2",
+                    "published": "1 ngày trước",
+                    "hashtag": "605599"
+                }
+            },
+            "mainContent": {
+                "header": "Thông tin mô tả",
+                "content": [
+                    "CHO THUÊ NHÀ Ở, HOẶC LÀM KHO",
+                    "Diện tích 100m2, 200m2 tới 600m2",
+                    "Đường rộng từ 3 tới 10m",
+                    "Giá từ 8 triệu tới 25 triệu/tháng",
+                    "Khu vực dọc theo Quốc Lộ 50, Các xã Bình Hưng, Phong Phú và Đa Phước huyện Bình Chánh",
+                    "Đường rộng, hẻm to, xe tải, xe cont chạy chạy tới kho. Thuận tiện giao thương giữa tuyến QL50, Nguyễn Văn Linh về Các Cảng trong Sài Gòn, Cảng Long An và các tỉnh miền Tây.",
+                    "Do có 5 kho như trên nên không đang cụ thể hết. Em dẫn đi xem từng kho. Khách hàng nói chuyện và thương lượng trực tiếp với chủ.",
+                    "DẪN ĐI XEM MIỄN PHÍ KHÔNG LẤY TIỀN CAFE CÀO PHÁO GÌ HẾT",
+                    "Cảm ơn đã xem tin !!!"
+                ]
+            },
+            "overview": {
+                "header": "Đặc điểm tin đăng",
+                "content": [
+                    {
+                        "name": "Mã tin:",
+                        "content": "#605599"
+                    },
+                    {
+                        "name": "Khu vực",
+                        "content": "Cho thuê mặt bằng Hồ Chí Minh"
+                    },
+                    {
+                        "name": "Loại tin rao:",
+                        "content": "Cho thuê mặt bằng"
+                    },
+                    {
+                        "name": "Đối tượng thuê:",
+                        "content": "Tất cả"
+                    },
+                    {
+                        "name": "Gói tin:",
+                        "content": "Tin thường"
+                    },
+                    {
+                        "name": "Ngày đăng:",
+                        "content": "Thứ 3, 10:26 09/08/2022"
+                    },
+                    {
+                        "name": "Ngày hết hạn:",
+                        "content": "Thứ 6, 10:26 19/08/2022"
+                    }
+                ]
+            },
+            "contact": {
+                "header": "Thông tin liên hệ",
+                "content": [
+                    {
+                        "name": "Liên hệ:",
+                        "content": "Nguyễn Mỹ Cảnh"
+                    },
+                    {
+                        "name": "Điện thoại:",
+                        "content": "0858700057"
+                    },
+                    {
+                        "name": "Zalo",
+                        "content": "0858700057"
+                    }
+                ]
+            }
         },
-        "address": "Địa chỉ: Phố Lê Trọng Tấn, Phường Dương Nội, Quận Hà Đông, Hà Nội",
-        "attributes": {
-          "price": "3.5 triệu/tháng",
-          "acreage": "30m2",
-          "published": "16/12/2023",
-          "hashtag": "643316"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "Văn phòng cho thuê ở Dương Nội_Lê Trọng Tấn_Geleximco_Hà Đông_HN",
-          "Phòng mới , mọi thứ đều mới , full setup hoàn thiện bàn ghế giao ngay.",
-          "• Chính chủ cho thuê văn phòng mới hoàn thiện ( hợp đồng lâu dài )",
-          "• Diện tích: từ 30m2 -80m2 ( Gái từ 3tr5 đến 8tr)",
-          "• Thiết kế tối ưu, Thiết kế thông sàn, view full kính, vuông vắn",
-          "• Ô tô đỗ linh hoạt",
-          "• Căn góc, mặt đường to rộng, ô tô đỗ thoải mái, view cửa kính siêu thoáng mát, truc đường trước nhà 13 m2, ngay cổng chào . đường đôi xe đỗ thoải mái",
-          "--------------------------------------",
-          "̣ ̂ ̂ ̣̂ Huyền 0358.11.15.55 (/)"
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#643316" },
-          {
-            "name": "Khu vực",
-            "content": "Cho thuê mặt bằng, văn phòng Hà Nội"
-          },
-          {
-            "name": "Loại tin rao:",
-            "content": "Cho thuê mặt bằng, văn phòng"
-          },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin thường" },
-          { "name": "Ngày đăng:", "content": "Thứ 7, 11:03 16/12/2023" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 5, 11:03 21/12/2023" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "Thu Huyền" },
-          { "name": "Điện thoại:", "content": "0358111555" },
-          { "name": "Zalo", "content": "0358111555" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/11/z4919115736616-99060de34c452fa23cdd6b6a29255e21_1702262344.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/11/z4919115302023-8ea7451e5e2c10e4857be8735b846a12_1702262343.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/11/z4922226383289-e015e77d7f8a810c6db6fd74edf910d5_1702262343.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/11/z4919115736521-30d0526ddcb466f76a072ebfd8ab51dc_1702262344.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/11/z4919115736616-99060de34c452fa23cdd6b6a29255e21_1702262344.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/11/z4919115302023-8ea7451e5e2c10e4857be8735b846a12_1702262343.jpg"
-      ],
-      "header": {
-        "title": "Cho Thuê Văn Phòng Tầng 5 Tòa nhà Hồng Hà Tower - Thịnh Liệt",
-        "class": {
-          "content": "Chuyên mục: Cho thuê mặt bằng, văn phòng Quận Hoàng Mai",
-          "classType": "Cho thuê mặt bằng, văn phòng Quận Hoàng Mai"
+        {
+            "images": [
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/08/z3621379247198-6d476af60c64dfe09142a389b6327d41_1659974596.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/08/z3621379227144-49b7ae622282656b4f9bf1ff12859418_1659974587.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/08/z3621892005757-0fbd9ec44c50aad62f04928674a6303c_1659974587.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/08/z3621379225873-58af286aeaf9a6d5029bb951bc2b1c87_1659974593.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/08/z3621379247198-6d476af60c64dfe09142a389b6327d41_1659974596.jpg"
+            ],
+            "header": {
+                "title": "Nhà nguyên căn mặt tiền đường 9*18m",
+                "class": {
+                    "content": "Chuyên mục: Cho thuê mặt bằng Quận 12",
+                    "classType": "Cho thuê mặt bằng Quận 12"
+                },
+                "address": "Địa chỉ: Đường Hiệp Thành 45, Phường Hiệp Thành, Quận 12, Hồ Chí Minh",
+                "attributes": {
+                    "price": "30 triệu/tháng",
+                    "acreage": "162m2",
+                    "published": "1 ngày trước",
+                    "hashtag": "605594"
+                }
+            },
+            "mainContent": {
+                "header": "Thông tin mô tả",
+                "content": [
+                    "- Mặt bằng kinh doanh 1 trệt 3 lầu (9*18m)",
+                    "- Gần trường học vd: Thpt Võ Trường Toản;...",
+                    "- Gần chợ, siêu thị,tạp hóa;..."
+                ]
+            },
+            "overview": {
+                "header": "Đặc điểm tin đăng",
+                "content": [
+                    {
+                        "name": "Mã tin:",
+                        "content": "#605594"
+                    },
+                    {
+                        "name": "Khu vực",
+                        "content": "Cho thuê mặt bằng Hồ Chí Minh"
+                    },
+                    {
+                        "name": "Loại tin rao:",
+                        "content": "Cho thuê mặt bằng"
+                    },
+                    {
+                        "name": "Đối tượng thuê:",
+                        "content": "Tất cả"
+                    },
+                    {
+                        "name": "Gói tin:",
+                        "content": "Tin miễn phí"
+                    },
+                    {
+                        "name": "Ngày đăng:",
+                        "content": "Thứ 2, 23:03 08/08/2022"
+                    },
+                    {
+                        "name": "Ngày hết hạn:",
+                        "content": "Thứ 7, 23:03 13/08/2022"
+                    }
+                ]
+            },
+            "contact": {
+                "header": "Thông tin liên hệ",
+                "content": [
+                    {
+                        "name": "Liên hệ:",
+                        "content": "Trịnh Thị Ánh Tuyết"
+                    },
+                    {
+                        "name": "Điện thoại:",
+                        "content": "0983612733"
+                    },
+                    {
+                        "name": "Zalo",
+                        "content": "0983612733"
+                    }
+                ]
+            }
         },
-        "address": "Địa chỉ: Thịnh Liệt, Phường Thịnh Liệt, Quận Hoàng Mai, Hà Nội",
-        "attributes": {
-          "price": "170.000 đồng/m2/tháng",
-          "acreage": "230m2",
-          "published": "11/12/2023",
-          "hashtag": "642847"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "Cho thuê văn phòng, Tầng 5 Tòa nhà Hồng Hà Tower, giá thuê chỉ 8.0 USD/m2 Full thuế VAT và phí dịch vụ.",
-          "Vị trí: Tầng 5, Tòa nhà Hồng Hà Tower, ngay mặt phố, số 89 Thịnh Liệt, Q. Hoàng Mai, Hà Nội, cách mặt đường Giải phóng 100m.",
-          "Tiện ích: Sàn trải thảm sang trọng, điều hòa âm trần Daikin, vách kính cường lực, ổ cắm âm sàn, view thành phố đẹp (xem ảnh thực tế)",
-          "Giá thuê: Cực hợp lý, chỉ 7.0 USD/m2 (chưa thuế). Còn lại 2 diện tích 126m2 và 230m2.",
-          "Phí khác:",
-          "- Điện nước theo giá nhà nước",
-          "- Tiền gửi xe 66.000đ/ xe máy, xe tô tô để ngoài mặt tiền chưa thu phí hoặc gửi bên trong sân 30.000đ/ lượt",
-          "- Phí dịch vụ 11.000đ/ m2",
-          "Liên hệ Ban Quản lý (cho thuê trực tiếp) : Không chín một hai hai sáu năm không tám sáu."
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#642847" },
-          {
-            "name": "Khu vực",
-            "content": "Cho thuê mặt bằng, văn phòng Hà Nội"
-          },
-          {
-            "name": "Loại tin rao:",
-            "content": "Cho thuê mặt bằng, văn phòng"
-          },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin miễn phí" },
-          { "name": "Ngày đăng:", "content": "Thứ 2, 09:39 11/12/2023" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 7, 09:39 16/12/2023" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "Thu Phương" },
-          { "name": "Điện thoại:", "content": "0888900226" },
-          { "name": "Zalo", "content": "0888900226" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/08/anh-kho-4_1702016706.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/08/anh-kho-1_1702016706.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/08/anh-kho-2_1702016706.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/08/anh-kho-3_1702016706.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/08/anh-kho-4_1702016706.jpg"
-      ],
-      "header": {
-        "title": "Cho thuê Kho tại địa chỉ 201 Cầu Diễn, Phúc Diễn, Bắc Từ Liêm, Hà Nội",
-        "class": {
-          "content": "Chuyên mục: Cho thuê mặt bằng, văn phòng Quận Bắc Từ Liêm",
-          "classType": "Cho thuê mặt bằng, văn phòng Quận Bắc Từ Liêm"
+        {
+            "images": [
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/08/z3627799021630-502e313a83f3416dc00a8947658d4d56_1659951487.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/08/z3627799009047-85e3a277b6b30a7f95b0d91cd1c6c728_1659951487.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/08/z3627799011712-6da024d854ef7538154845245e7736ae_1659951487.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/08/z3627799021630-502e313a83f3416dc00a8947658d4d56_1659951487.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/08/z3627799009047-85e3a277b6b30a7f95b0d91cd1c6c728_1659951487.jpg"
+            ],
+            "header": {
+                "title": "MẶT BẰNG NGUYỄN DUY DƯƠNG Q5 GIÁ RẺ",
+                "class": {
+                    "content": "Chuyên mục: Cho thuê mặt bằng Quận 5",
+                    "classType": "Cho thuê mặt bằng Quận 5"
+                },
+                "address": "Địa chỉ: 97D Đường Nguyễn Duy Dương, Phường 9, Quận 5, Hồ Chí Minh",
+                "attributes": {
+                    "price": "26 triệu/tháng",
+                    "acreage": "45m2",
+                    "published": "2 ngày trước",
+                    "hashtag": "605565"
+                }
+            },
+            "mainContent": {
+                "header": "Thông tin mô tả",
+                "content": [
+                    "MẶT BẰNG NGAY MẶT TIỀN 97D NGUYỄN DUY DƯƠNG Q5",
+                    "Ngay chợ An Đông",
+                    "Gần siêu thị COORMARK AN ĐÔNG, gần các bến xe",
+                    "Nhà mới dọn vô ở liền",
+                    "Phù hợp kinh doanh nhiều ngành nghề",
+                    "Có chỗ ngủ lại",
+                    "Wc riêng",
+                    "GIÁ CẢ THƯƠNG LƯỢNG",
+                    "LIÊN HỆ 0936100103 A SỸ ĐỂ XEM MẶT BẰNG"
+                ]
+            },
+            "overview": {
+                "header": "Đặc điểm tin đăng",
+                "content": [
+                    {
+                        "name": "Mã tin:",
+                        "content": "#605565"
+                    },
+                    {
+                        "name": "Khu vực",
+                        "content": "Cho thuê mặt bằng Hồ Chí Minh"
+                    },
+                    {
+                        "name": "Loại tin rao:",
+                        "content": "Cho thuê mặt bằng"
+                    },
+                    {
+                        "name": "Đối tượng thuê:",
+                        "content": "Tất cả"
+                    },
+                    {
+                        "name": "Gói tin:",
+                        "content": "Tin thường"
+                    },
+                    {
+                        "name": "Ngày đăng:",
+                        "content": "Thứ 2, 16:41 08/08/2022"
+                    },
+                    {
+                        "name": "Ngày hết hạn:",
+                        "content": "Thứ 5, 16:41 18/08/2022"
+                    }
+                ]
+            },
+            "contact": {
+                "header": "Thông tin liên hệ",
+                "content": [
+                    {
+                        "name": "Liên hệ:",
+                        "content": "NGUYỄN AN"
+                    },
+                    {
+                        "name": "Điện thoại:",
+                        "content": "0979144859"
+                    },
+                    {
+                        "name": "Zalo",
+                        "content": "0375174435"
+                    }
+                ]
+            }
         },
-        "address": "Địa chỉ: 201 Cầu Diễn, Phường Phú Diễn, Quận Bắc Từ Liêm, Hà Nội",
-        "attributes": {
-          "price": "25 triệu/tháng",
-          "acreage": "220m2",
-          "published": "08/12/2023",
-          "hashtag": "642664"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "Cho thuê kho tại địa chỉ 201 Cầu Diễn, Phúc Diễn, Bắc Từ Liêm, Hà Nội",
-          "Kho rộng rãi thoáng mát, gần trung tâm, xe ô tô, xe tải trọng tải lớn ra vào đều được",
-          "Diện tích kho khoảng hơn 220m2, chiều cao 10 m (có thể qua xem kiểm tra thực tế), ngang 13m, dài 18m",
-          "Giá thuê : 25.000.000 đ",
-          "Liên hệ: 036838994 – Nguyên (Phòng hành chính nhân sự)"
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#642664" },
-          {
-            "name": "Khu vực",
-            "content": "Cho thuê mặt bằng, văn phòng Hà Nội"
-          },
-          {
-            "name": "Loại tin rao:",
-            "content": "Cho thuê mặt bằng, văn phòng"
-          },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin miễn phí" },
-          { "name": "Ngày đăng:", "content": "Thứ 6, 13:25 08/12/2023" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 4, 13:25 13/12/2023" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "Nguyễn Trung Nguyên" },
-          { "name": "Điện thoại:", "content": "0368389946" },
-          { "name": "Zalo", "content": "0368389946" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/07/z4948317039579-8604a2a9dcb63c44951babcd04c171b6_1701922082.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/07/z4948317019968-44e08a786374143886e4e075ccf064dc_1701922081.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/07/z4948317025829-e937ff2e043963bd141c4851dd45fc83_1701922082.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/07/z4948317022629-7ec6b4566c3c25a9bdc0db6229fee734_1701922081.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/07/z4948317039579-8604a2a9dcb63c44951babcd04c171b6_1701922082.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/12/07/z4948317019968-44e08a786374143886e4e075ccf064dc_1701922081.jpg"
-      ],
-      "header": {
-        "title": "CHÍNH CHỦ cho thuê mặt bằng KD - SPA - Văn phòng - 120m2 - Nguyễn Chí Thanh, Đống Đa",
-        "class": {
-          "content": "Chuyên mục: Cho thuê mặt bằng, văn phòng Quận Đống Đa",
-          "classType": "Cho thuê mặt bằng, văn phòng Quận Đống Đa"
+        {
+            "images": [
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/08/z3627099707668-9b1c146c0f4b0d41a0f66ba56c3d8b84_1659933745.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/08/z3627099684005-d2b46f59a68baf70971dc8a4dbbd6d45_1659933743.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/08/z3627099707627-36dadb1ab3cc5bc39b4931ea80123fb4_1659933743.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/08/z3627099707668-9b1c146c0f4b0d41a0f66ba56c3d8b84_1659933745.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/08/z3627099684005-d2b46f59a68baf70971dc8a4dbbd6d45_1659933743.jpg"
+            ],
+            "header": {
+                "title": "[ CHO THUÊ MẶT BẰNG - KINH DOANH]",
+                "class": {
+                    "content": "Chuyên mục: Cho thuê mặt bằng Quận Nam Từ Liêm",
+                    "classType": "Cho thuê mặt bằng Quận Nam Từ Liêm"
+                },
+                "address": "Địa chỉ: Số 10 ngõ 54 Đại Linh, Phường Trung Văn, Quận Nam Từ Liêm, Hà Nội",
+                "attributes": {
+                    "price": "5 triệu/tháng",
+                    "acreage": "30m2",
+                    "published": "2 ngày trước",
+                    "hashtag": "605543"
+                }
+            },
+            "mainContent": {
+                "header": "Thông tin mô tả",
+                "content": [
+                    "CHO THUÊ MẶT BẰNG KINH DOANH",
+                    "Diện tích : 30m2",
+                    "Có điều hòa, cửa kính",
+                    "Phù hợp tạp hóa, bán hàng online, văn phòng khởi nghiệp...."
+                ]
+            },
+            "overview": {
+                "header": "Đặc điểm tin đăng",
+                "content": [
+                    {
+                        "name": "Mã tin:",
+                        "content": "#605543"
+                    },
+                    {
+                        "name": "Khu vực",
+                        "content": "Cho thuê mặt bằng Hà Nội"
+                    },
+                    {
+                        "name": "Loại tin rao:",
+                        "content": "Cho thuê mặt bằng"
+                    },
+                    {
+                        "name": "Đối tượng thuê:",
+                        "content": "Tất cả"
+                    },
+                    {
+                        "name": "Gói tin:",
+                        "content": "Tin thường"
+                    },
+                    {
+                        "name": "Ngày đăng:",
+                        "content": "Thứ 2, 11:43 08/08/2022"
+                    },
+                    {
+                        "name": "Ngày hết hạn:",
+                        "content": "Thứ 5, 11:43 18/08/2022"
+                    }
+                ]
+            },
+            "contact": {
+                "header": "Thông tin liên hệ",
+                "content": [
+                    {
+                        "name": "Liên hệ:",
+                        "content": "Kim Cúc"
+                    },
+                    {
+                        "name": "Điện thoại:",
+                        "content": "0973018340"
+                    },
+                    {
+                        "name": "Zalo",
+                        "content": "0973018340"
+                    }
+                ]
+            }
         },
-        "address": "Địa chỉ: Ngõ 100 Nguyễn Chí Thanh, Phường Láng Thượng, Quận Đống Đa, Hà Nội",
-        "attributes": {
-          "price": "25 triệu/tháng",
-          "acreage": "120m2",
-          "published": "07/12/2023",
-          "hashtag": "642534"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "CHÍNH CHỦ cho thuê mặt bằng kinh doanh - SPA - Văn phòng",
-          "Tầng 1 + tầng 2 = 120m2 (mỗi sàn 60m2) - 2 nhà vệ sinh, nóng lạnh, điều hoà đầy đủ",
-          "Ngõ 100 Nguyễn Chí Thanh - Đống Đa",
-          "Hiện đang sẵn nội thất, thiết bị spa có thể chuyển nhượng luôn",
-          "Mặt tiền 5m, đường rộng 2 xe tránh nhau, trung tâm, phù hợp kinh doanh hoặc làm văn phòng",
-          "Giá thuê 1 tháng 25tr, thanh toán 3 tháng, cọc 1 tháng"
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#642534" },
-          {
-            "name": "Khu vực",
-            "content": "Cho thuê mặt bằng, văn phòng Hà Nội"
-          },
-          {
-            "name": "Loại tin rao:",
-            "content": "Cho thuê mặt bằng, văn phòng"
-          },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin miễn phí" },
-          { "name": "Ngày đăng:", "content": "Thứ 5, 11:08 07/12/2023" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 3, 11:08 12/12/2023" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "Nguyễn Hà Như" },
-          { "name": "Điện thoại:", "content": "0947071097" },
-          { "name": "Zalo", "content": "0947071097" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/28/z4885372547121-77e56aeca627ecc019c60326cf967a20_1701143582.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/28/z4885372516815-109d9ebe2c7228371cd87d59ca1aa3ef_1701143579.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/28/z4885372526875-39ac75ec98ab9727ac73f51d42a31a68_1701143579.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/28/z4885372543356-b8cd1cb46880210eb72d862da2577622_1701143582.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/28/z4885372547121-77e56aeca627ecc019c60326cf967a20_1701143582.jpg"
-      ],
-      "header": {
-        "title": "Cho thuê văn phòng giá rẻ tại Hoàng Quốc Việt - Cầu Giấy",
-        "class": {
-          "content": "Chuyên mục: Cho thuê mặt bằng, văn phòng Quận Cầu Giấy",
-          "classType": "Cho thuê mặt bằng, văn phòng Quận Cầu Giấy"
+        {
+            "images": [
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/15/c41653e3045dc4039d4c_1655262722.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/23/26b75f21be2d7d73243c_1655961229.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/15/3ab8d3cf4364833ada75_1655262719.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/15/2380247c73c2b39cead3_1655262721.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/15/c692696f3ed1fe8fa7c0_1655262722.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/15/692db3e0e45e24007d4f_1655262721.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/15/ab1094dcc362033c5a73_1655262721.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/15/bd64459d1223d27d8b32_1655262721.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/15/97cb123c458285dcdc93_1655262720.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/15/82e628147faabff4e6bb_1655262719.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/15/e632d3c3847d44231d6c_1655262722.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/15/c41653e3045dc4039d4c_1655262722.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/23/26b75f21be2d7d73243c_1655961229.jpg"
+            ],
+            "header": {
+                "title": "Tôi. Quốc chính chủ cho thuê mặt bằng mặt tiền Võ Thị Sáu, Quận 1 - 105m2 - chỉ 30tr/tháng. Liên hệ: 0822141489",
+                "class": {
+                    "content": "Chuyên mục: Cho thuê mặt bằng Quận 1",
+                    "classType": "Cho thuê mặt bằng Quận 1"
+                },
+                "address": "Địa chỉ: 94 Đường Võ Thị Sáu, Phường Tân Định, Quận 1, Hồ Chí Minh",
+                "attributes": {
+                    "price": "30 triệu/tháng",
+                    "acreage": "105m2",
+                    "published": "2 ngày trước",
+                    "hashtag": "602457"
+                }
+            },
+            "mainContent": {
+                "header": "Thông tin mô tả",
+                "content": [
+                    "Tôi, Quốc chính chủ căn nhà mặt tiền 94 Võ Thị Sáu, Tân Định, quận 1. Cho thuê mặt bằng mặt tiền Võ Thị Sáu",
+                    "Ngang 4,2 dài 25. Diện tích sử dụng lên đến 105m2",
+                    "Không gian được thiết kế theo phong cách châu âu",
+                    "Cho thuê làm văn phòng, mặt bằng kinh doanh ( không cho làm quán ăn, quán Coffe vì sợ xuống cấp nhà )",
+                    "Ngay khu sầm uất, gần trường học, khu ăn uống, công viên…",
+                    "Thuận tiện di chuyển các quận trung tâm.",
+                    "Cho thuê hợp đồng dài hạn",
+                    "Miễn môi giới",
+                    "Liên hệ : 0822141489 ( Quốc )"
+                ]
+            },
+            "overview": {
+                "header": "Đặc điểm tin đăng",
+                "content": [
+                    {
+                        "name": "Mã tin:",
+                        "content": "#602457"
+                    },
+                    {
+                        "name": "Khu vực",
+                        "content": "Cho thuê mặt bằng Hồ Chí Minh"
+                    },
+                    {
+                        "name": "Loại tin rao:",
+                        "content": "Cho thuê mặt bằng"
+                    },
+                    {
+                        "name": "Đối tượng thuê:",
+                        "content": "Tất cả"
+                    },
+                    {
+                        "name": "Gói tin:",
+                        "content": "Tin thường"
+                    },
+                    {
+                        "name": "Ngày đăng:",
+                        "content": "Thứ 2, 10:54 08/08/2022"
+                    },
+                    {
+                        "name": "Ngày hết hạn:",
+                        "content": "Thứ 6, 21:24 12/08/2022"
+                    }
+                ]
+            },
+            "contact": {
+                "header": "Thông tin liên hệ",
+                "content": [
+                    {
+                        "name": "Liên hệ:",
+                        "content": "Trương Quang Cường Quốc"
+                    },
+                    {
+                        "name": "Điện thoại:",
+                        "content": "0822141489"
+                    },
+                    {
+                        "name": "Zalo",
+                        "content": "0822141489"
+                    }
+                ]
+            }
         },
-        "address": "Địa chỉ: Tầng 8 số 349 Hoàng Quốc Việt, Phường Nghĩa Tân, Quận Cầu Giấy, Hà Nội",
-        "attributes": {
-          "price": "4.999 triệu/tháng",
-          "acreage": "20m2",
-          "published": "28/11/2023",
-          "hashtag": "641658"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "Chỉ 4.999k/ tháng bạn sẽ có ngay:",
-          "-Văn phòng 20m2 thuộc quận Cầu Giấy với 3-5 chỗ ngồi làm việc chuyên nghiệp",
-          "-Đầy đủ bàn ghế, tủ đựng hồ sơ",
-          "-Hỗ trợ phòng họp và lễ tân đón tiếp khách",
-          "-Nhận và chuyển tiếp bưu phẩm, thư từ",
-          "-Miễn phí sử dụng khu vực tiếp khách chung",
-          "-Miễn phí sử dụng Internet tốc độ cao",
-          "-Miễn phí in ấn 50 trang/ tháng",
-          "-Sử dụng tủ lạnh, lò vi sóng, máy đun siêu tốc, máy lọc nước nóng lạnh",
-          "-Hỗ trợ tư vấn về kế toán, báo cáo thuế, báo cáo tài chính cuối năm",
-          "-Hỗ trợ tư vấn marketing online, thiết kế website, email doanh nghiệp…vv",
-          "-Tư vấn luật và công chứng, dịch thuật"
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#641658" },
-          {
-            "name": "Khu vực",
-            "content": "Cho thuê mặt bằng, văn phòng Hà Nội"
-          },
-          {
-            "name": "Loại tin rao:",
-            "content": "Cho thuê mặt bằng, văn phòng"
-          },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin miễn phí" },
-          { "name": "Ngày đăng:", "content": "Thứ 3, 10:53 28/11/2023" },
-          { "name": "Ngày hết hạn:", "content": "Chủ Nhật, 10:53 03/12/2023" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "Kim Trần" },
-          { "name": "Điện thoại:", "content": "0901765466" },
-          { "name": "Zalo", "content": "0901765466" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/16/tang-lung-wc_1700119921.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/16/mat-tien_1700119881.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/16/tang-1-ben-trong_1700119890.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/16/tang-2_1700119896.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/16/tang-lung_1700119903.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/16/tang-1-wc_1700119909.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/16/tang-2-wc_1700119913.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/16/tang-lung-wc_1700119921.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/16/mat-tien_1700119881.jpg"
-      ],
-      "header": {
-        "title": "Chính chủ cho thuê 03 tầng tại số 9 Nghi Tam, Tây hồ, Hà Nội làm văn phòng, ngân hàng, trung tâm tiếng anh...",
-        "class": {
-          "content": "Chuyên mục: Cho thuê mặt bằng, văn phòng Quận Tây Hồ",
-          "classType": "Cho thuê mặt bằng, văn phòng Quận Tây Hồ"
+        {
+            "images": [
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/02/e233ddfd880a4a54131b-1_1659450136.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/02/3a2204b151469318ca57_1659450138.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/02/1458b730b4ed76b32ffc-1_1659450137.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/02/60b662cc6111a34ffa00-1_1659450137.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/02/5d37ce53cd8e0fd0569f-1_1659450137.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/02/1e88b85abc877ed92796-1_1659450138.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/02/4e0663ff3608f456ad19-1_1659450137.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/02/e233ddfd880a4a54131b-1_1659450136.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/02/3a2204b151469318ca57_1659450138.jpg"
+            ],
+            "header": {
+                "title": "Cho thuê MB siêu rộng, mới 100% - 75m2 - hẻm trước nhà rộng 5m - chỉ 16tr/tháng",
+                "class": {
+                    "content": "Chuyên mục: Cho thuê mặt bằng Quận Bình Thạnh",
+                    "classType": "Cho thuê mặt bằng Quận Bình Thạnh"
+                },
+                "address": "Địa chỉ: Đống Đa, Phường 2, Quận Bình Thạnh, Hồ Chí Minh",
+                "attributes": {
+                    "price": "16 triệu/tháng",
+                    "acreage": "75m2",
+                    "published": "2 ngày trước",
+                    "hashtag": "605265"
+                }
+            },
+            "mainContent": {
+                "header": "Thông tin mô tả",
+                "content": [
+                    "Cô Thảo cho thuê Mặt bằng mặt tiền Đống Đa diện tích khủng",
+                    "Giá: 16tr/tháng",
+                    "Mặt bằng trệt rộng 75m2, cho thuê nguyên sàn",
+                    "Có hầm và cho ở lại.",
+                    "Đa tiện ích, tiện làm văn phòng, ở, kinh doanh buôn bán,..",
+                    "Ngang 8.5m, dài 8.9",
+                    "Lh: 0822141489 - Quốc - ( Quản lý tỏa nhà )"
+                ]
+            },
+            "overview": {
+                "header": "Đặc điểm tin đăng",
+                "content": [
+                    {
+                        "name": "Mã tin:",
+                        "content": "#605265"
+                    },
+                    {
+                        "name": "Khu vực",
+                        "content": "Cho thuê mặt bằng Hồ Chí Minh"
+                    },
+                    {
+                        "name": "Loại tin rao:",
+                        "content": "Cho thuê mặt bằng"
+                    },
+                    {
+                        "name": "Đối tượng thuê:",
+                        "content": "Tất cả"
+                    },
+                    {
+                        "name": "Gói tin:",
+                        "content": "Tin thường"
+                    },
+                    {
+                        "name": "Ngày đăng:",
+                        "content": "Thứ 2, 10:54 08/08/2022"
+                    },
+                    {
+                        "name": "Ngày hết hạn:",
+                        "content": "Thứ 6, 21:23 12/08/2022"
+                    }
+                ]
+            },
+            "contact": {
+                "header": "Thông tin liên hệ",
+                "content": [
+                    {
+                        "name": "Liên hệ:",
+                        "content": "Trương Quang Cường Quốc"
+                    },
+                    {
+                        "name": "Điện thoại:",
+                        "content": "0822141489"
+                    },
+                    {
+                        "name": "Zalo",
+                        "content": "0822141489"
+                    }
+                ]
+            }
         },
-        "address": "Địa chỉ: 9 Đường Nghi Tàm, Phường Yên Phụ, Quận Tây Hồ, Hà Nội",
-        "attributes": {
-          "price": "60 triệu/tháng",
-          "acreage": "170m2",
-          "published": "21/11/2023",
-          "hashtag": "640553"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "Cho thuê nhà làm văn phòng, siêu thị tại số 9 Nghi tàm, Tây Hồ - 60tr/tháng",
-          "ưu tiên thuê cả 3 tầng hoặc từng tầng",
-          "- Tầng 1: 50m², 20tr/tháng.",
-          "- Tầng lửng: 50m², 15tr/ tháng.",
-          "- Tầng 2: 70m², 30tr/ tháng.",
-          "Thuê cả 3 tầng giá 60tr/tháng.",
-          "Các tầng đều trang bị điều hòa trung tâm, vệ sinh riêng (gồm khu rửa tay và WC, thiết bị vệ sinh ToTo), đèn led, 2 mặt thoáng).",
-          "Mặt bằng đã sẵn sàng (tường, ổ cắm, đén, sàn nhà), khách thuê tự decor theo như cầu thuê.",
-          "Có hầm để ô tô, xe máy.",
-          "Phù hợp kinh doanh, làm văn phòng, cửa hàng, trung tâm tiếng Anh...",
-          "Hợp đồng thuê từ 2 năm trở lên.",
-          " ",
-          " "
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#640553" },
-          {
-            "name": "Khu vực",
-            "content": "Cho thuê mặt bằng, văn phòng Hà Nội"
-          },
-          {
-            "name": "Loại tin rao:",
-            "content": "Cho thuê mặt bằng, văn phòng"
-          },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin thường" },
-          { "name": "Ngày đăng:", "content": "Thứ 3, 10:36 21/11/2023" },
-          { "name": "Ngày hết hạn:", "content": "Chủ Nhật, 10:35 26/11/2023" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "nguyen quỳnh anh" },
-          { "name": "Điện thoại:", "content": "0982616572" },
-          { "name": "Zalo", "content": "0982616572" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/07/2ecd8713-bbe1-4910-9c21-53281d019584_1699342783.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/07/462d9e18-7137-43f5-bfee-a3f14cbcbc40_1699342722.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/07/6037b6d4-602b-4060-b066-3df38b962f98_1699342723.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/07/07ba81a0-1f59-4a45-8e3e-f4a6abf4b5c6_1699342737.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/07/a30dd220-f492-435a-bc71-6514e6005d67_1699342739.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/07/0a75899d-92a2-44d3-8acd-0ef0986351dd_1699342730.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/07/866a7cd6-a9f0-4beb-932b-cfe5951c9d3d_1699342731.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/07/0b650da3-2d70-4cac-8578-f1707e4cacc3_1699342743.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/07/0bf47e77-bfd6-4428-a031-516ec978e7d0_1699342778.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/07/f5a2c63d-0518-4414-98e3-a4138cc39477_1699342779.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/07/2ecd8713-bbe1-4910-9c21-53281d019584_1699342783.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/11/07/462d9e18-7137-43f5-bfee-a3f14cbcbc40_1699342722.jpg"
-      ],
-      "header": {
-        "title": "Chính chủ cho thuê mặt bằng tầng 1 tại khu x2a , yên sở, hoàng mai hà nội",
-        "class": {
-          "content": "Chuyên mục: Cho thuê mặt bằng, văn phòng Quận Hoàng Mai",
-          "classType": "Cho thuê mặt bằng, văn phòng Quận Hoàng Mai"
+        {
+            "images": [
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/01/12/dsc-0701_1610422460.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/01/12/dsc-0668_1610422368.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/01/12/dsc-0634_1610422451.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/01/12/dsc-0636_1610422451.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/01/12/dsc-0638_1610422455.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/01/12/dsc-0696_1610422456.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/01/12/dsc-0701_1610422460.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/01/12/dsc-0668_1610422368.jpg"
+            ],
+            "header": {
+                "title": "CHO THUÊ MẶT BẰNG 176 CHU VĂN AN, BÌNH THẠNH.",
+                "class": {
+                    "content": "Chuyên mục: Cho thuê mặt bằng Quận Bình Thạnh",
+                    "classType": "Cho thuê mặt bằng Quận Bình Thạnh"
+                },
+                "address": "Địa chỉ: 176 Đường Chu Văn An, Phường 26, Quận Bình Thạnh, Hồ Chí Minh",
+                "attributes": {
+                    "price": "12 triệu/tháng",
+                    "acreage": "35m2",
+                    "published": "2 ngày trước",
+                    "hashtag": "317622"
+                }
+            },
+            "mainContent": {
+                "header": "Thông tin mô tả",
+                "content": [
+                    "CHO THUÊ MẶT BẰNG 176 CHU VĂN AN, BÌNH THẠNH.",
+                    "Thông tin chi tiết: NHÀ MẶT TIỀN 176 CHU VĂN AN, BÌNH THẠNH",
+                    "Thích hợp làm Công ty, Văn phòng, Thẩm mỹ viện, Spa, Showroom....",
+                    "Diện tích: 4m x 8m, CÓ TẦNG HẦM ĐỂ XE. CÓ TOLET RIÊNG",
+                    "Ưu điểm mặt bằng nhà:",
+                    "- Có tầng hầm để xe, ô tô đậu trước nhà.",
+                    "- Nhà mặt tiền, có vị trí đắc địa trong khu đông dân cư, gần chợ, siêu thị, quán ăn uống, trung tâm thương mại, phòng tập gym… Ngay cửa ngõ thuận tiện đi đến Quận 1, 2, 3, bến xe miền Đông và các tính phía Bắc.",
+                    "Thanh toán tiền thuê đa dạng theo mỗi 3/6/12 tháng một lần.",
+                    "Tạo điều kiện thời gian di dời đến.",
+                    "Hỗ trợ giá trong thời gian đầu khi thuê.",
+                    "Thông tin liện hệ: Chủ nhà Mr. Vũ. Gọi điện, nhắn tin HOẶC qua zalo theo số đt liên hệ."
+                ]
+            },
+            "overview": {
+                "header": "Đặc điểm tin đăng",
+                "content": [
+                    {
+                        "name": "Mã tin:",
+                        "content": "#317622"
+                    },
+                    {
+                        "name": "Khu vực",
+                        "content": "Cho thuê mặt bằng Hồ Chí Minh"
+                    },
+                    {
+                        "name": "Loại tin rao:",
+                        "content": "Cho thuê mặt bằng"
+                    },
+                    {
+                        "name": "Đối tượng thuê:",
+                        "content": "Tất cả"
+                    },
+                    {
+                        "name": "Gói tin:",
+                        "content": "Tin thường"
+                    },
+                    {
+                        "name": "Ngày đăng:",
+                        "content": "Thứ 2, 10:21 08/08/2022"
+                    },
+                    {
+                        "name": "Ngày hết hạn:",
+                        "content": "Thứ 5, 10:21 18/08/2022"
+                    }
+                ]
+            },
+            "contact": {
+                "header": "Thông tin liên hệ",
+                "content": [
+                    {
+                        "name": "Liên hệ:",
+                        "content": "Huỳnh Hoàng Vũ"
+                    },
+                    {
+                        "name": "Điện thoại:",
+                        "content": "0902995422"
+                    },
+                    {
+                        "name": "Zalo",
+                        "content": "0902995422"
+                    }
+                ]
+            }
         },
-        "address": "Địa chỉ: 76 khu x2a Đường Yên Sở, Quận Hoàng Mai, Hà Nội",
-        "attributes": {
-          "price": "Thỏa thuận",
-          "acreage": "45m2",
-          "published": "07/11/2023",
-          "hashtag": "639754"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "Cho thuê tầng 1 làm xưởng gia công, kho bãi.",
-          "Nhà nằm trong khu phân lô thông thoáng giao thông thuận lợi.",
-          "Diện tích trong nhà khoảng 45-50m2 công trình phụ đầy đủ, hệ thống wifi, camera có sẵn, ngoài ra mặt trước nhà đường rộng thênh thang đã lợp mái che nên sử dụng thoải mái.",
-          "Trước làm kho hàng bên chuyển phát nhanh.",
-          "Liên hệ: Chú Thuật 0912043517"
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#639754" },
-          {
-            "name": "Khu vực",
-            "content": "Cho thuê mặt bằng, văn phòng Hà Nội"
-          },
-          {
-            "name": "Loại tin rao:",
-            "content": "Cho thuê mặt bằng, văn phòng"
-          },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin thường" },
-          { "name": "Ngày đăng:", "content": "Thứ 3, 14:44 07/11/2023" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 3, 14:44 14/11/2023" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "Nguyễn thị hồng" },
-          { "name": "Điện thoại:", "content": "0988716293" },
-          { "name": "Zalo", "content": "0988716293" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/23/z3705020585316-072e760b3a323b68f5993afa41eb614d_1684820947.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/26/449c3100d513164d4f028_1661512333.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/26/bd09d55b2c48ef16b6599_1661512333.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/26/4c23b367fbe739b960f6_1661512336.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/23/z3705019831460-70128e3c3e15b00e2435aa402e4cc284_1684820944.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/23/z3705020059048-5bcee1116bd1826019fd7c1ff1eb0b6f_1684820944.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/23/z3705020585316-072e760b3a323b68f5993afa41eb614d_1684820947.jpg"
-      ],
-      "header": {
-        "title": "Cho thuê sàn 70m2 tầng 2 mặt phố 204 Trần Duy Hưng, đối diện Chamrvit Tower, Vincom D'Capital",
-        "class": {
-          "content": "Chuyên mục: Cho thuê mặt bằng, văn phòng Quận Cầu Giấy",
-          "classType": "Cho thuê mặt bằng, văn phòng Quận Cầu Giấy"
+        {
+            "images": [
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/07/img-0800_1659856204.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/07/1_1659856004.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/07/2_1659856004.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/07/3_1659856007.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/07/4_1659856009.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/07/5_1659856011.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/07/6_1659856014.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/07/img-0780_1659856016.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/07/img-0811_1659856020.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/07/l_1659856019.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/07/img-0794_1659856201.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/07/img-0800_1659856204.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/07/1_1659856004.jpg"
+            ],
+            "header": {
+                "title": "Cho thuê mặt bằng khu vực phường 13 Quận Tân Bình",
+                "class": {
+                    "content": "Chuyên mục: Cho thuê mặt bằng Quận Tân Bình",
+                    "classType": "Cho thuê mặt bằng Quận Tân Bình"
+                },
+                "address": "Địa chỉ: 22A Thân Nhân Trung, Phường 13, Quận Tân Bình, Hồ Chí Minh",
+                "attributes": {
+                    "price": "16 triệu/tháng",
+                    "acreage": "85m2",
+                    "published": "3 ngày trước",
+                    "hashtag": "605510"
+                }
+            },
+            "mainContent": {
+                "header": "Thông tin mô tả",
+                "content": [
+                    "- Cho thuê nhà mặt tiền chiều rộng 3,7 m, dài 23 m.",
+                    "- Đường trước nhà rộng 16 m, vỉa hè rộng 4m.",
+                    "- Nhà thích hợp cho việc kinh doanh, mở shop, cửa hàng.",
+                    "- Nhà được thiết kế để cho thuê mặt bằng ở phía trước, mọi sinh hoạt gia đình ở phía sau bao gồm phòng ngủ, bếp, 2 nhà vệ sinh.",
+                    "- Mặt tiền phù hợp với shop thời trang, đại lý vé máy bay, phòng mạch, tiệm làm tóc vv...",
+                    "- Nhà nằm cách đường Cộng Hòa 200 m, cách trường Dân Lập Nguyễn Khuyến 200 m, nằm trong khu dân cư sầm uất.",
+                    "- Xung quanh có đầy đủ chợ siêu thị, nhà trẻ, trường cấp 1-2-3.",
+                    "* Nhà chính chủ miễn tiếp trung gian.",
+                    "-",
+                    "LH gặp chủ nhà: 0344.268.548 (Cô Vân)"
+                ]
+            },
+            "overview": {
+                "header": "Đặc điểm tin đăng",
+                "content": [
+                    {
+                        "name": "Mã tin:",
+                        "content": "#605510"
+                    },
+                    {
+                        "name": "Khu vực",
+                        "content": "Cho thuê mặt bằng Hồ Chí Minh"
+                    },
+                    {
+                        "name": "Loại tin rao:",
+                        "content": "Cho thuê mặt bằng"
+                    },
+                    {
+                        "name": "Đối tượng thuê:",
+                        "content": "Tất cả"
+                    },
+                    {
+                        "name": "Gói tin:",
+                        "content": "Tin thường"
+                    },
+                    {
+                        "name": "Ngày đăng:",
+                        "content": "Chủ Nhật, 14:08 07/08/2022"
+                    },
+                    {
+                        "name": "Ngày hết hạn:",
+                        "content": "Chủ Nhật, 14:08 21/08/2022"
+                    }
+                ]
+            },
+            "contact": {
+                "header": "Thông tin liên hệ",
+                "content": [
+                    {
+                        "name": "Liên hệ:",
+                        "content": "Co Van"
+                    },
+                    {
+                        "name": "Điện thoại:",
+                        "content": "0344268548"
+                    },
+                    {
+                        "name": "Zalo",
+                        "content": "0344268548"
+                    }
+                ]
+            }
         },
-        "address": "Địa chỉ: 202 Trần Duy Hưng, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",
-        "attributes": {
-          "price": "10 triệu/tháng",
-          "acreage": "70m2",
-          "published": "06/11/2023",
-          "hashtag": "606480"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "Cho thuê sàn 70m2 tầng 2 tại Số 202 Trần Duy Hưng, Trung Hòa, Cầu Giấy, HN.",
-          "- Vị trí: Đắc địa, mặt đường Trần Duy Hưng, đối diện Tòa Charmvit Tower, khách sạn Grand Plaza, Tuyến phố sầm uất rất đông người qua lại.",
-          "- Phù hợp mọi mô hình kinh doanh: siêu thị, văn phòng, trụ sở, thẩm mỹ viện, kinh doanh online, giới thiệu sản phẩm...",
-          "- Diện tích: 70m2/sàn",
-          "- Mặt tiền: full kính, view nhìn ra đường Trần Duy Hưng",
-          "- Trang thiết bị: Điều hòa, hệ thống điện sáng, cửa kính, thang máy.",
-          "- Cho thuê lâu dài.",
-          "Liên hệ chính chủ: (Zalo, sms, call)."
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#606480" },
-          {
-            "name": "Khu vực",
-            "content": "Cho thuê mặt bằng, văn phòng Hà Nội"
-          },
-          {
-            "name": "Loại tin rao:",
-            "content": "Cho thuê mặt bằng, văn phòng"
-          },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin thường" },
-          { "name": "Ngày đăng:", "content": "Thứ 2, 14:47 06/11/2023" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 3, 14:15 07/11/2023" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "Sam Sam" },
-          { "name": "Điện thoại:", "content": "0877828666" },
-          { "name": "Zalo", "content": "0877828666" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/10/27/z4822408127397-f1d0d487432b030a5a9a26648de066d0_1698396879.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/10/27/z4822408090671-2a525f671a20996043a526d9d2583648_1698396867.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/10/27/z4822408105104-8f81584ef7209ef6bc2d73c33e436164_1698396867.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/10/27/z4822408105351-1d9e3e21e60623ab220241fd0fbe2be6_1698396872.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/10/27/z4822408111028-d6172e01c722cdadd4d3199cfdcde4f7_1698396872.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/10/27/z4822408118088-34c5e4b107be31e6282814f9d3577361_1698396876.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/10/27/z4822408126196-d384e5ab8f87bc1ed5d95629cb218dd3_1698396876.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/10/27/z4822408127397-f1d0d487432b030a5a9a26648de066d0_1698396879.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/10/27/z4822408090671-2a525f671a20996043a526d9d2583648_1698396867.jpg"
-      ],
-      "header": {
-        "title": "PASS VĂN PHÒNG + TẶNG 1 tháng tiền thuê cho \"môi giới\" hoặc \"người thuê\"",
-        "class": {
-          "content": "Chuyên mục: Cho thuê mặt bằng, văn phòng Quận Cầu Giấy",
-          "classType": "Cho thuê mặt bằng, văn phòng Quận Cầu Giấy"
+        {
+            "images": [],
+            "header": {
+                "title": "Cho thuê trang trại chăn nuôi heo, có chuồng heo xây sẵn sức chứa 300 con, hệ thống điện nước đầy đủ",
+                "class": {
+                    "content": "Chuyên mục: Cho thuê mặt bằng Huyện Vĩnh Cửu",
+                    "classType": "Cho thuê mặt bằng Huyện Vĩnh Cửu"
+                },
+                "address": "Địa chỉ: Đường Bửu Long, Xã Tân Bình, Huyện Vĩnh Cửu, Đồng Nai",
+                "attributes": {
+                    "price": "5 triệu/tháng",
+                    "acreage": "1000m2",
+                    "published": "06/08/2022",
+                    "hashtag": "204258"
+                }
+            },
+            "mainContent": {
+                "header": "Thông tin mô tả",
+                "content": [
+                    "Cần cho thuê trang trại chăn nuôi heo, gấn trung tâm khu du lịch Bửu Long, Đồng Nai.",
+                    "Chuồng xây sẵn, hệ thống điện nước đầy đủ.",
+                    "Có nhà cấp 4 ở lại, tiện sinh hoạt, chăn nuôi, thích hợp cho gia đình yêu thích nông nghiệp, muốn phát triển mô hình vườn, ao , chuồng,...",
+                    "Liên hệ: Cô Thanh 0913609230 hoặc anh Anh 0903627665"
+                ]
+            },
+            "overview": {
+                "header": "Đặc điểm tin đăng",
+                "content": [
+                    {
+                        "name": "Mã tin:",
+                        "content": "#204258"
+                    },
+                    {
+                        "name": "Khu vực",
+                        "content": "Cho thuê mặt bằng Đồng Nai"
+                    },
+                    {
+                        "name": "Loại tin rao:",
+                        "content": "Cho thuê mặt bằng"
+                    },
+                    {
+                        "name": "Đối tượng thuê:",
+                        "content": "Tất cả"
+                    },
+                    {
+                        "name": "Gói tin:",
+                        "content": "Tin thường"
+                    },
+                    {
+                        "name": "Ngày đăng:",
+                        "content": "Thứ 7, 16:01 06/08/2022"
+                    },
+                    {
+                        "name": "Ngày hết hạn:",
+                        "content": "Thứ 3, 16:01 16/08/2022"
+                    }
+                ]
+            },
+            "contact": {
+                "header": "Thông tin liên hệ",
+                "content": [
+                    {
+                        "name": "Liên hệ:",
+                        "content": "thuy phan"
+                    },
+                    {
+                        "name": "Điện thoại:",
+                        "content": "0913609230"
+                    },
+                    {
+                        "name": "Zalo",
+                        "content": "0913609230"
+                    }
+                ]
+            }
         },
-        "address": "Địa chỉ: Doãn Kế Thiện, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",
-        "attributes": {
-          "price": "8.5 triệu/tháng",
-          "acreage": "70m2",
-          "published": "27/10/2023",
-          "hashtag": "638899"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "- Địa chỉ: số 19 ngõ 105 Doãn Kế Thiện, Mai Dịch, Cầu Giấy (mặt ngõ rộng 2 ô tô con tránh nhau)",
-          "- Diện tích: 70m2 ngăn 2 phòng ( có hầm để xe máy)",
-          "- Giá: 8.5tr/tháng (tầng 2).",
-          "- Hđ 1 năm, đóng 2 cọc 1",
-          "- 2 điều hoà 18k + nóng lạnh.",
-          "Call: 090 1322 686"
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#638899" },
-          {
-            "name": "Khu vực",
-            "content": "Cho thuê mặt bằng, văn phòng Hà Nội"
-          },
-          {
-            "name": "Loại tin rao:",
-            "content": "Cho thuê mặt bằng, văn phòng"
-          },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin thường" },
-          { "name": "Ngày đăng:", "content": "Thứ 6, 15:57 27/10/2023" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 4, 15:57 01/11/2023" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "Qúy Nguyễn" },
-          { "name": "Điện thoại:", "content": "0901322686" },
-          { "name": "Zalo", "content": "0901322686" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/10/23/11-nvs-moi-tang_1698025859.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/10/23/03-anh-chi-tiet_1698025856.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/10/23/04-anh-chi-tiet_1698025856.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/10/23/05-mat-tien_1698025857.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/10/23/06-loi-vao-mbkd_1698025858.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/10/23/07-ben-trai_1698025858.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/10/23/08-ben-phai_1698025859.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/10/23/09-thang-may_1698025859.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/10/23/10-thang-thoat-hiem_1698025859.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/10/23/11-nvs-moi-tang_1698025859.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/10/23/03-anh-chi-tiet_1698025856.jpg"
-      ],
-      "header": {
-        "title": "Tòa nhà 7 tầng sàn 115m2 - 425 mặt phố Nguyễn Khang cho thuê MB&VP",
-        "class": {
-          "content": "Chuyên mục: Cho thuê mặt bằng, văn phòng Quận Cầu Giấy",
-          "classType": "Cho thuê mặt bằng, văn phòng Quận Cầu Giấy"
+        {
+            "images": [],
+            "header": {
+                "title": "Mặt tiền trung tâm tiện mở đại lý Honda, thế giới di động, điện máy xanh,... trung tâm thị trấn Phú GIáo, Bình Dương",
+                "class": {
+                    "content": "Chuyên mục: Cho thuê mặt bằng Huyện Phú Giáo",
+                    "classType": "Cho thuê mặt bằng Huyện Phú Giáo"
+                },
+                "address": "Địa chỉ: Đường Tỉnh lộ 741, Xã Phước Hòa, Huyện Phú Giáo, Bình Dương",
+                "attributes": {
+                    "price": "20 triệu/tháng",
+                    "acreage": "750m2",
+                    "published": "06/08/2022",
+                    "hashtag": "242440"
+                }
+            },
+            "mainContent": {
+                "header": "Thông tin mô tả",
+                "content": [
+                    "Đất 2 mặt tiền. Mặt tiền đường lớn ĐT741, rộng 26m, mặt tiền hông dài 30m, đường bê tông rộng 10m, thuận tiện làm kho, nhà xưởng, đại lý xe Honda, thế giới di động hoặc mở trạm xăng.",
+                    "Khu vực đông dân cư, gần khu công nghiệp, chợ, trường học, trung tâm huyện Phú Giáo",
+                    "Cho thuê dài hạn, giá thuê 20tr/tháng",
+                    "Liên hệ Chị Thanh: 0913 609 230 hoặc 0903627665"
+                ]
+            },
+            "overview": {
+                "header": "Đặc điểm tin đăng",
+                "content": [
+                    {
+                        "name": "Mã tin:",
+                        "content": "#242440"
+                    },
+                    {
+                        "name": "Khu vực",
+                        "content": "Cho thuê mặt bằng Bình Dương"
+                    },
+                    {
+                        "name": "Loại tin rao:",
+                        "content": "Cho thuê mặt bằng"
+                    },
+                    {
+                        "name": "Đối tượng thuê:",
+                        "content": "Tất cả"
+                    },
+                    {
+                        "name": "Gói tin:",
+                        "content": "Tin thường"
+                    },
+                    {
+                        "name": "Ngày đăng:",
+                        "content": "Thứ 7, 15:55 06/08/2022"
+                    },
+                    {
+                        "name": "Ngày hết hạn:",
+                        "content": "Thứ 3, 15:55 16/08/2022"
+                    }
+                ]
+            },
+            "contact": {
+                "header": "Thông tin liên hệ",
+                "content": [
+                    {
+                        "name": "Liên hệ:",
+                        "content": "thuy phan"
+                    },
+                    {
+                        "name": "Điện thoại:",
+                        "content": "0913609230"
+                    },
+                    {
+                        "name": "Zalo",
+                        "content": "0913609230"
+                    }
+                ]
+            }
         },
-        "address": "Địa chỉ: 425 Nguyễn Khang, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội",
-        "attributes": {
-          "price": "19 triệu/tháng",
-          "acreage": "115m2",
-          "published": "23/10/2023",
-          "hashtag": "638452"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "Nhà mới nâng cấp hệ thống PCCC tự động hiện đại, tháng máy mới, bảo vệ 24/24",
-          "Có thể vào nhà đầu tháng 12/2023.",
-          "- Vị trí: Số 425 Nguyễn Khang, Yên Hòa, Cầu Giấy, Hà Nội.",
-          "- Diện tích: 115m².",
-          "- Các sàn chia 2 phòng: 60m² và 30m²(Diện tích thông thủy).",
-          "- Giá thuê:",
-          "　　Tầng 1(MBKD) 115m²: 26 triệu/tháng.",
-          "　　Sàn tầng 2 - 3 - 4 - 5 115m²: 19 triệu/tháng.",
-          "- Thời gian setup: 1 tháng (Tối đa).",
-          "- Tiền dịch vụ: 1 triệu/ tháng.",
-          "　(bao gồm Phí bảo vệ, vệ sinh tòa nhà định kỳ, phí bảo dưỡng thang máy, bảo dưỡng điều hòa định 　kỳ, tiền nước vệ sinh, điện hành lang, hệ thống camera giám sát, internet miễn phí... ).",
-          "- Phí điện: 4.000 đồng/số.",
-          "- Bãi gửi xe: Có bảo vệ trông coi.",
-          "Liên hệ đặt lịch xem văn phòng (Chính chủ)"
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#638452" },
-          {
-            "name": "Khu vực",
-            "content": "Cho thuê mặt bằng, văn phòng Hà Nội"
-          },
-          {
-            "name": "Loại tin rao:",
-            "content": "Cho thuê mặt bằng, văn phòng"
-          },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin miễn phí" },
-          { "name": "Ngày đăng:", "content": "Thứ 2, 08:51 23/10/2023" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 7, 08:51 28/10/2023" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "Nguyễn Thành Công" },
-          { "name": "Điện thoại:", "content": "0978413615" },
-          { "name": "Zalo", "content": "0978413615" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/07/30/z4559736136358-868955484634d31d0ed7b7a6e353a836_1690698259.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/07/30/z4559736101529-28e3564b7b4149f673395c0f27d7fa7d_1690698257.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/07/30/z4559735988028-379c7170500eb3ee4eb0dbda249fec50_1690698250.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/07/30/z4559735991816-4abe788ab99e380cd2413122581b3cd4_1690698252.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/07/30/z4559735995134-de5e9028770df4617e77a2542616ebed_1690698253.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/07/30/z4559735997296-2493aa59db4776948b02a7144f3aa557_1690698255.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/07/30/z4559736136358-868955484634d31d0ed7b7a6e353a836_1690698259.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/07/30/z4559736101529-28e3564b7b4149f673395c0f27d7fa7d_1690698257.jpg"
-      ],
-      "header": {
-        "title": "Cho thuê nhà mới mặt phố thụy khuê 4 tầng 63 thụy khuê",
-        "class": {
-          "content": "Chuyên mục: Cho thuê mặt bằng, văn phòng Quận Tây Hồ",
-          "classType": "Cho thuê mặt bằng, văn phòng Quận Tây Hồ"
+        {
+            "images": [
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/06/z3622796646170-07a6472a310c9c45a0685abdd70c352f_1659763662.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/06/z3622796640278-de3642c31f727723bd2d7adfe62ce512_1659763661.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/06/z3622796632633-0d12ed1557abb63c73144e2d6c462f86_1659763660.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/06/z3622796636181-824e17c8b9677f4f27c1c33398dad256_1659763660.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/06/z3622796638672-b35bc1a2c24d4da531a9046ffcc9bc8c_1659763660.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/06/z3622796641693-e64764e2c4fea04d97312501aadc7de2_1659763661.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/06/z3622796643217-7fef7f460230adf19fd5a0042a7b01b7_1659763661.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/06/z3622796649367-751bde07dbdb703eab9bdba5ed39a9af_1659763662.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/06/z3622796650872-93f93a2c159c69d07394a1fd0731a7ed_1659763662.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/06/z3622796647533-724463d4660d7ed1c14407d7247fb339_1659763662.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/06/z3622796634356-9833d5012c4ce8e758bd021ce217808d_1659763660.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/06/z3622796646170-07a6472a310c9c45a0685abdd70c352f_1659763662.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/06/z3622796640278-de3642c31f727723bd2d7adfe62ce512_1659763661.jpg"
+            ],
+            "header": {
+                "title": "Khai Trương Sàn Làm Văn Phòng Mặt Tiền Trần Quang Khải Gần Cầu Bông",
+                "class": {
+                    "content": "Chuyên mục: Cho thuê mặt bằng Quận 1",
+                    "classType": "Cho thuê mặt bằng Quận 1"
+                },
+                "address": "Địa chỉ: Đường Trần Quang Khải, Phường Tân Định, Quận 1, Hồ Chí Minh",
+                "attributes": {
+                    "price": "50 triệu/tháng",
+                    "acreage": "110m2",
+                    "published": "06/08/2022",
+                    "hashtag": "605478"
+                }
+            },
+            "mainContent": {
+                "header": "Thông tin mô tả",
+                "content": [
+                    "Hiện tại bên e cho thuê 2 sàn làm Văn Phòng ngay mặt tiền Trần Quang Khải gần với Cầu Bông một địa điểm cực kỳ đắc địa.",
+                    "Sàn 1:",
+                    "Diện tích 55m2 - 25Tr",
+                    "Sàn 2:",
+                    "Diện tích 55m2 - 25Tr",
+                    "Sếp nào muốn làm luôn văn phòng rộng rãi dành cho nhân viên của mình thì làm luôn 2 sàn với tổng diện tích là: 110m2 - 50Tr.",
+                    "Ngoài ra toàn nhà còn sở hữu một sân thượng với quả Views xin sò để cho có thể hóng mát và thư giãn sau những giờ làm việc chăm chỉ",
+                    "️ Liên hệ trực tiếp SĐT gặp E (Trọng An) để được tư vấn, đi xem và sở hữu cho mình một Văn phòng như ý ạ."
+                ]
+            },
+            "overview": {
+                "header": "Đặc điểm tin đăng",
+                "content": [
+                    {
+                        "name": "Mã tin:",
+                        "content": "#605478"
+                    },
+                    {
+                        "name": "Khu vực",
+                        "content": "Cho thuê mặt bằng Hồ Chí Minh"
+                    },
+                    {
+                        "name": "Loại tin rao:",
+                        "content": "Cho thuê mặt bằng"
+                    },
+                    {
+                        "name": "Đối tượng thuê:",
+                        "content": "Tất cả"
+                    },
+                    {
+                        "name": "Gói tin:",
+                        "content": "Tin thường"
+                    },
+                    {
+                        "name": "Ngày đăng:",
+                        "content": "Thứ 7, 12:28 06/08/2022"
+                    },
+                    {
+                        "name": "Ngày hết hạn:",
+                        "content": "Thứ 7, 12:28 20/08/2022"
+                    }
+                ]
+            },
+            "contact": {
+                "header": "Thông tin liên hệ",
+                "content": [
+                    {
+                        "name": "Liên hệ:",
+                        "content": "Phan Trọng An"
+                    },
+                    {
+                        "name": "Điện thoại:",
+                        "content": "0393995122"
+                    },
+                    {
+                        "name": "Zalo",
+                        "content": "0896430001"
+                    }
+                ]
+            }
         },
-        "address": "Địa chỉ: 63 đường Thụy Khuê, Phường Thụy Khuê, Quận Tây Hồ, Hà Nội",
-        "attributes": {
-          "price": "50 triệu/tháng",
-          "acreage": "100m2",
-          "published": "15/10/2023",
-          "hashtag": "631795"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "Cho thuê nhà mới mặt phố thụy khuê 4 tầng",
-          "Diện tích T1,2,3,4 gần 100m2",
-          "Mặt tiền 5m, 2 mặt thoáng (1 mặt ngõ) 2 lối đi.",
-          "Tầng 1 có thể kinh doanh riêng lối đi riêng.",
-          "Gần chợ, trường học, chung cư, an ninh cao, thuận tiện kinh doanh nhiều dịch vụ, văn phòng và nhà ở.",
-          "Có chỗ đỗ xe số lượng lớn ô tô và xe máy.",
-          "Vệ sinh khép kín.",
-          "Giá thuê 70 tr (có thương lượng cho khách thuê lâu dài). Ưu tiên cho khách thuê toàn bộ 4 tầng.",
-          "[Album]"
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#631795" },
-          {
-            "name": "Khu vực",
-            "content": "Cho thuê mặt bằng, văn phòng Hà Nội"
-          },
-          {
-            "name": "Loại tin rao:",
-            "content": "Cho thuê mặt bằng, văn phòng"
-          },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin thường" },
-          { "name": "Ngày đăng:", "content": "Chủ Nhật, 18:43 15/10/2023" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 6, 18:43 20/10/2023" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "minh bắc" },
-          { "name": "Điện thoại:", "content": "0862023934" },
-          { "name": "Zalo", "content": "0862023934" }
-        ]
-      }
-    },
-    {
-      "images": [],
-      "header": {
-        "title": "Mặt bằng kinh doanh 35m2 Hà Nội",
-        "class": {
-          "content": "Chuyên mục: Cho thuê mặt bằng, văn phòng Quận Hà Đông",
-          "classType": "Cho thuê mặt bằng, văn phòng Quận Hà Đông"
+        {
+            "images": [],
+            "header": {
+                "title": "Mặt bằng đẹp cho bán đồ ăn đường vào sân bay",
+                "class": {
+                    "content": "Chuyên mục: Cho thuê mặt bằng Quận Hải Châu",
+                    "classType": "Cho thuê mặt bằng Quận Hải Châu"
+                },
+                "address": "Địa chỉ: Đường Duy Tân, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",
+                "attributes": {
+                    "price": "3 triệu/tháng",
+                    "acreage": "20m2",
+                    "published": "03/08/2022",
+                    "hashtag": "316380"
+                }
+            },
+            "mainContent": {
+                "header": "Thông tin mô tả",
+                "content": [
+                    "Mặt bằng đẹp cho bán hàng ăn sáng trưa, chiều, tối, khuya. Trên đường vào và gần sân bay, nơi có hàng nghìn người có nhu cầu ăn(vì trong sân bay quá đắt) gồm hành khách đi mb, nhân viên sân bay, taxi, grab...mùa covid vẫn bán cả trăm xuất. Mặt tiền có thể sử dụng 7,5m. Vỉa hè 6m. Giá 4 tr/tháng, hợp đồng 1 năm, cọc 1 tháng, trả tiền hàng tháng. Lh a cường 0888880132."
+                ]
+            },
+            "overview": {
+                "header": "Đặc điểm tin đăng",
+                "content": [
+                    {
+                        "name": "Mã tin:",
+                        "content": "#316380"
+                    },
+                    {
+                        "name": "Khu vực",
+                        "content": "Cho thuê mặt bằng Đà Nẵng"
+                    },
+                    {
+                        "name": "Loại tin rao:",
+                        "content": "Cho thuê mặt bằng"
+                    },
+                    {
+                        "name": "Đối tượng thuê:",
+                        "content": "Tất cả"
+                    },
+                    {
+                        "name": "Gói tin:",
+                        "content": "Tin thường"
+                    },
+                    {
+                        "name": "Ngày đăng:",
+                        "content": "Thứ 4, 20:13 03/08/2022"
+                    },
+                    {
+                        "name": "Ngày hết hạn:",
+                        "content": "Thứ 7, 20:13 13/08/2022"
+                    }
+                ]
+            },
+            "contact": {
+                "header": "Thông tin liên hệ",
+                "content": [
+                    {
+                        "name": "Liên hệ:",
+                        "content": "Lê Đức cường"
+                    },
+                    {
+                        "name": "Điện thoại:",
+                        "content": "0888880132"
+                    },
+                    {
+                        "name": "Zalo",
+                        "content": "0888880132"
+                    }
+                ]
+            }
         },
-        "address": "Địa chỉ: Phường La Khê, Quận Hà Đông, Hà Nội",
-        "attributes": {
-          "price": "5.5 triệu/tháng",
-          "acreage": "35m2",
-          "published": "04/10/2023",
-          "hashtag": "582682"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "Mình có một mặt bằng muốn cho thuê làm văn phòng hoặc cửa hàng, thông tin cụ thể như sau:",
-          "- Một tầng, Diện tích: 35 m2 mặt tiền rộng 3m, riêng biệt có nhà vệ sinh.",
-          "- An ninh tốt vỉa hè rộng để được nhiều xe máy, đường đôi đỗ được oto.",
-          "- Mặt bằng chính chủ, muốn tìm người thuê lâu dài để đảm bảo tính ổn định, liên hệ để nhận mặt bằng.",
-          "Trân trọng."
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#582682" },
-          {
-            "name": "Khu vực",
-            "content": "Cho thuê mặt bằng, văn phòng Hà Nội"
-          },
-          {
-            "name": "Loại tin rao:",
-            "content": "Cho thuê mặt bằng, văn phòng"
-          },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin thường" },
-          { "name": "Ngày đăng:", "content": "Thứ 4, 08:17 04/10/2023" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 2, 08:17 09/10/2023" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "minh nguyen" },
-          { "name": "Điện thoại:", "content": "0923606578" },
-          { "name": "Zalo", "content": "0923606578" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/09/25/380803025-6863828703668457-3209293065446083916-n_1695629466.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/09/25/381332226-6863828710335123-4513485195646532245-n_1695629466.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/09/25/381272002-6863828870335107-6281505892989351053-n_1695629466.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/09/25/380829791-6863828677001793-5974989537457914739-n_1695629466.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/09/25/380803025-6863828703668457-3209293065446083916-n_1695629466.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/09/25/381332226-6863828710335123-4513485195646532245-n_1695629466.jpg"
-      ],
-      "header": {
-        "title": "Cho thuê tầng 1 nhà mặt phố kinh doanh tốt tại 26 Trung Liệt Đống Đa Hà Nội 48m2 mặt tiền 4.5m",
-        "class": {
-          "content": "Chuyên mục: Cho thuê mặt bằng, văn phòng Quận Đống Đa",
-          "classType": "Cho thuê mặt bằng, văn phòng Quận Đống Đa"
+        {
+            "images": [
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/03/z3464631015264-9fbfef38193dde30ab383d10ef0f60ef_1659514256.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/03/z3464630844798-48bc9d567d9dd54eed2cdc3e2938c742_1659514225.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/03/dien-tich-cho-thue-the-artemis-3_1659514249.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/03/thiet-ke-van-phong-dep-3_1659514249.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/03/z3464630718093-5ef1f089f63532837e7334b1f4e589fa_1659514250.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/03/z3464630882501-5a6ab446b93ff17946c0a3e021ee322a_1659514250.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/03/z3464630899496-20c384a7a7127144b1004fe333651136_1659514252.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/03/z3464630971543-efc44b9cca9cf6c52604e7e6f592daf3_1659514253.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/03/z3464631005076-4b1f2ab6fab5e0f6dc78ad7f74f940e5_1659514254.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/03/z3464631032645-525d5f4416f0f4636f7b405045f16ae8_1659514255.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/03/z3464631015264-9fbfef38193dde30ab383d10ef0f60ef_1659514256.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/03/z3464630844798-48bc9d567d9dd54eed2cdc3e2938c742_1659514225.jpg"
+            ],
+            "header": {
+                "title": "Chủ đầu tư IMG cho thuê mặt bằng tòa nhà Artemis vị trí đẹp nhất quận Thanh Xuân",
+                "class": {
+                    "content": "Chuyên mục: Cho thuê mặt bằng Quận Thanh Xuân",
+                    "classType": "Cho thuê mặt bằng Quận Thanh Xuân"
+                },
+                "address": "Địa chỉ: 3 Phố Lê Trọng Tấn, Phường Khương Mai, Quận Thanh Xuân, Hà Nội",
+                "attributes": {
+                    "price": "350.000 đồng/tháng",
+                    "acreage": "999m2",
+                    "published": "03/08/2022",
+                    "hashtag": "605309"
+                }
+            },
+            "mainContent": {
+                "header": "Thông tin mô tả",
+                "content": [
+                    "Tòa nhà Artemis, số 3 Lê Trọng Tấn với 4 mặt tiền được tọa lạc tại vị trí đắc địa: Ngã tư Trường Chinh, Tôn Thất Tùng, Lê Trọng Tấn. Với 8 tầng thương mại văn phòng được thiết kế hiện đại, dịch vụ tối ưu, phù hợp làm Ngân hàng, Văn phòng đại diện, Cửa hàng nước giải khát.",
+                    "1. Vị trí:",
+                    "Tòa nhà Artemis tại ngã tư Lê Trọng Tấn, Trường Chinh giao Tôn Thất Tùng,vị trí đắc địa trung tâm quận Thanh Xuân.",
+                    "- Đối diện Bệnh viện đại học Y Hà Nội",
+                    "- Đối diện bảo tàng Phòng Không Không Quân",
+                    "- Ngã tư sở: cách 200m",
+                    "- Bến xe Giáp Bát: cách 2km",
+                    "- Hồ Hoàn Kiếm: cách 6km",
+                    "- Cầu Vĩnh Tuy: cách 4km",
+                    "2. Tổng quan:",
+                    "Tổng diện tích sàn thương mại, văn phòng: 36.000 m2, view rộng, thoáng, tầm nhìn siêu đẹp bao quanh Hà Nội",
+                    "- Diện tích 1 sàn: 4.500 m2",
+                    "- Diện tích cho thuê linh hoạt từ 60-80-100-150-200-500-1000-2000-3000-4000 m2 theo nhu cầu sử dụng của khách hàng",
+                    "- Số lượng thang máy: 08 thang máy tốc độ cao",
+                    "- Tầng hầm để xe: 03 tầng hầm rộng 10.000 m2",
+                    "- Sảnh văn phòng và thương mại theo tiêu chuẩn văn phòng hạng B, có lễ tân hướng hướng dẫn từ 08h15 17h15",
+                    "- An ninh bảo vệ: 24/24 trực tất cả các ngày trong tuần",
+                    "- Hệ thống điều hòa Chiller tòan bộ 8 tầng văn phòng thương mại",
+                    "- Vệ sinh chuyên nghiệp, sạch sẽ,",
+                    "- Chăm sóc khách hàng, Kỹ thuật hỗ trợ 24/7",
+                    "- Hệ thống PCCC hiện đại theo tiêu chuẩn mới nhất.",
+                    "3. Giá thuê: 350.000 m2/tháng",
+                    "4. Liên hệ:",
+                    "- Khách hàng thuê có nhu cầu liên hệ trực tiếp Chủ đầu tư: Ms Thu 0987878949",
+                    "- Hoa hồng hấp dẫn từ 1,2 - 2 tháng tiền thuê cho đối tác môi giới."
+                ]
+            },
+            "overview": {
+                "header": "Đặc điểm tin đăng",
+                "content": [
+                    {
+                        "name": "Mã tin:",
+                        "content": "#605309"
+                    },
+                    {
+                        "name": "Khu vực",
+                        "content": "Cho thuê mặt bằng Hà Nội"
+                    },
+                    {
+                        "name": "Loại tin rao:",
+                        "content": "Cho thuê mặt bằng"
+                    },
+                    {
+                        "name": "Đối tượng thuê:",
+                        "content": "Tất cả"
+                    },
+                    {
+                        "name": "Gói tin:",
+                        "content": "Tin thường"
+                    },
+                    {
+                        "name": "Ngày đăng:",
+                        "content": "Thứ 4, 15:13 03/08/2022"
+                    },
+                    {
+                        "name": "Ngày hết hạn:",
+                        "content": "Thứ 7, 15:13 13/08/2022"
+                    }
+                ]
+            },
+            "contact": {
+                "header": "Thông tin liên hệ",
+                "content": [
+                    {
+                        "name": "Liên hệ:",
+                        "content": "thutt89"
+                    },
+                    {
+                        "name": "Điện thoại:",
+                        "content": "0987878949"
+                    },
+                    {
+                        "name": "Zalo",
+                        "content": "0987878949"
+                    }
+                ]
+            }
         },
-        "address": "Địa chỉ: 26 Phố Trung Liệt, Phường Trung Liệt, Quận Đống Đa, Hà Nội",
-        "attributes": {
-          "price": "11 triệu/tháng",
-          "acreage": "48m2",
-          "published": "25/09/2023",
-          "hashtag": "636262"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "Cho thuê tầng 1 nhà mặt phố Trung Liệt-Đống Đa",
-          "- Diện tích: 48m2.",
-          "- Mặt tiền: 4,5m.",
-          "- Phù hợp sử dụng cho nhiều loại hình kinh doanh: Văn phòng, nhà thuốc, spa (không kinh doanh hàng ăn).",
-          "- Đặc điểm nổi bật:",
-          "+ Khu vực sầm uất, chỉ cách phố Thái Hà vài bước chân.",
-          "+ Gần chợ Thái Hà, trường học, bệnh viện và khu văn phòng.",
-          "+ Không gian thoáng đãng, được tận dụng ánh sáng tự nhiên.",
-          "+ Vệ sinh riêng biệt đảm bảo sự riêng tư.",
-          "- Hợp đồng dài hạn mang lại sự ổn định và thuận lợi cho bạn.",
-          "- Liên hệ chính chủ để biết thêm thông tin và đặt lịch xem nhà: 0989 550 763."
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#636262" },
-          {
-            "name": "Khu vực",
-            "content": "Cho thuê mặt bằng, văn phòng Hà Nội"
-          },
-          {
-            "name": "Loại tin rao:",
-            "content": "Cho thuê mặt bằng, văn phòng"
-          },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin thường" },
-          { "name": "Ngày đăng:", "content": "Thứ 2, 15:14 25/09/2023" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 3, 15:14 03/10/2023" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "mrdat95" },
-          { "name": "Điện thoại:", "content": "0374098439" },
-          { "name": "Zalo", "content": "0374098439" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/08/25/z4149215057511-adb91464d0a1f03dc6e5c8f0efdb6ada_1692934105.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/08/25/z4470475864319-3a2deda9ae6c19bb3259dd562db9f1c5_1692934033.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/08/25/z4470475894209-495269c1e47512eb57d75d48de562b2e_1692934032.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/08/25/z4470475975946-99ec2d261cd795037300626a6ddf6c51_1692934033.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/08/25/z4470476047081-12deffe73d5a4c3fcf96183147ed1306_1692934033.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/08/25/z4470476116321-45c116629d79dd3aa11f3ee505777e8d_1692934034.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/08/25/z4470476135946-7e0e2be9ce1f71ad085c2e8e50272e21_1692934035.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/08/25/z4470476162534-69956ead4f47bd72a91731c3f7065928_1692934035.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/08/25/z4149213964114-d6d8e305278b861b4a0ce496d14d6b82_1692934105.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/08/25/z4149214109554-5cca7c4404184edeaa378cb8ec4eec45_1692934105.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/08/25/z4149214858676-48ff1e14493eae8e76852480ab0492ac_1692934105.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/08/25/z4149215057511-adb91464d0a1f03dc6e5c8f0efdb6ada_1692934105.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/08/25/z4470475864319-3a2deda9ae6c19bb3259dd562db9f1c5_1692934033.jpg"
-      ],
-      "header": {
-        "title": "Cho thuê 2 tầng cửa hàng, văn phòng, mặt phố Yên Phụ, Tây Hồ, HN",
-        "class": {
-          "content": "Chuyên mục: Cho thuê mặt bằng, văn phòng Quận Tây Hồ",
-          "classType": "Cho thuê mặt bằng, văn phòng Quận Tây Hồ"
+        {
+            "images": [
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/05/z3535814355606-b21dfcefe095d978aeed8b10ce4678d3_1659670117.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/05/z3578497826109-7c34eec0caf8decd69bd9e49e623deb5_1659670112.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/05/z3600993966293-d0029754f9502309032c0db64b4f5c12_1659670103.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/05/z3513378490087-1ef5ada78b709ae3d482a9ddaf36720c_1659670099.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/05/z3600995337855-2acb75a3b23bee8f1ba5644df439d9b8_1659670104.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/05/z3600997314033-696fd795f37f1e828ba9733b326b569a_1659670106.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/05/z3601002218992-060788347ec3e78a91f0df11bec307a2_1659670107.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/05/z3605326683169-b88897b221438edd29a95f74e2ca0ad8_1659670102.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/05/z3593344130678-25d2fc9d1b0097df9335ad5b45d51cc8_1659670110.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/05/z3593344098214-2e27431803beca945d4171a55086f404_1659670107.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/05/z3593343726824-a369a9919ed6271d00a9b7eb38b9268c_1659670108.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/05/z3593343630973-9df13081a2a17ec79c3c9e8f4e44de9f_1659670110.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/05/z3605326668723-460b6c27a57ec59f7af4b585210ef738_1659670098.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/05/z3578497889506-87f02522288643611c5659db06bf0d9c_1659670114.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/05/z3578497876891-c17b1dd912f9bfba9fbc6357e7f08f4d_1659670112.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/05/z3557601762865-9881aee71bd06d38a5566cbb8fe7e5b3_1659670114.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/05/z3535814355606-b21dfcefe095d978aeed8b10ce4678d3_1659670117.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/05/z3578497826109-7c34eec0caf8decd69bd9e49e623deb5_1659670112.jpg"
+            ],
+            "header": {
+                "title": "Cho thuê nhà phố shophouse Green River Q8-1trệt 1lầu 151m2 có nội thất cơ bản khu dân cư hiện hữu",
+                "class": {
+                    "content": "Chuyên mục: Cho thuê mặt bằng Quận 8",
+                    "classType": "Cho thuê mặt bằng Quận 8"
+                },
+                "address": "Địa chỉ: 2225 Phạm Thế Hiển, Phường 6, Quận 8, Hồ Chí Minh",
+                "attributes": {
+                    "price": "20 triệu/tháng",
+                    "acreage": "151m2",
+                    "published": "05/08/2022",
+                    "hashtag": "605411"
+                }
+            },
+            "mainContent": {
+                "header": "Thông tin mô tả",
+                "content": [
+                    "*Cho thuê 1 trệt 1 lầu 151m2-183m2 tại CĂN HỘ - ̣ ̂́ ̂̉ ̣̂ . DT Ngang 8m x dài 10m- gồm 1 tầng trệt có cầu thang lên tầng 2",
+                    "*CHO THUÊ NGUYÊN CĂN 20TR/ THÁNG hiện tại có 2 căn block B mặt ngoài, 2 căn block B mặt trong, 2 căn block A mặt ngoài và trong.",
+                    "*CHO Thuê tầng trệt 14tr/ tháng",
+                    "*SẢN PHẨM AN TOÀN KINH DOANH THUẬN LỢI",
+                    "Cập nhật tình hình mở bán các căn SHOPHOUSE 1 trệt 1 lầu đang được đưa vào sử dụng hiệu quả tại Green River Quận 8.",
+                    "*BLOCK A:",
+                    "1. Salon tóc CƯỜNG AN ĐÔNG",
+                    "2. Nha Khoa TÂM ĐAN",
+                    "3. SPA DAISY",
+                    "4. SPA LINH PHẠM",
+                    "5. Shop sản phẩm dành cho Mẹ và Con",
+                    "6.Cafe Bất động sản",
+                    "7. Trà sữa chân châu",
+                    "8. Bún đậu mắm tôm",
+                    "* BLOCK B:",
+                    "1. Cafe NAPOLI",
+                    "2. Cafe VIVA coffe",
+                    "3. Cafe Kai",
+                    "4. Vẽ tranh nghệ thuật sáng tạo cùng bé",
+                    "5. Trung tâm tổ chức sự kiện",
+                    "*BLOCK C:",
+                    "1. Cafe KARA",
+                    "2. Cửa hàng tiện lợi Family Mart",
+                    "3. Cửa hàng tiện lợi 24h Win mart + Phúc Long coffe",
+                    "4. ATM tự động TPBANK",
+                    "Anh/Chị có nhu cầu sở hữu hoặc thuê kinh doanh có thể tham khảo.",
+                    "Khu vực an ninh, có bảo vệ trực 24/24",
+                    "‍️ Liên hệ ngay:***"
+                ]
+            },
+            "overview": {
+                "header": "Đặc điểm tin đăng",
+                "content": [
+                    {
+                        "name": "Mã tin:",
+                        "content": "#605411"
+                    },
+                    {
+                        "name": "Khu vực",
+                        "content": "Cho thuê mặt bằng Hồ Chí Minh"
+                    },
+                    {
+                        "name": "Loại tin rao:",
+                        "content": "Cho thuê mặt bằng"
+                    },
+                    {
+                        "name": "Đối tượng thuê:",
+                        "content": "Tất cả"
+                    },
+                    {
+                        "name": "Gói tin:",
+                        "content": "Tin miễn phí"
+                    },
+                    {
+                        "name": "Ngày đăng:",
+                        "content": "Thứ 6, 10:38 05/08/2022"
+                    },
+                    {
+                        "name": "Ngày hết hạn:",
+                        "content": "Thứ 4, 10:38 10/08/2022"
+                    }
+                ]
+            },
+            "contact": {
+                "header": "Thông tin liên hệ",
+                "content": [
+                    {
+                        "name": "Liên hệ:",
+                        "content": "TÂN"
+                    },
+                    {
+                        "name": "Điện thoại:",
+                        "content": "0939273338"
+                    },
+                    {
+                        "name": "Zalo",
+                        "content": "0939273338"
+                    }
+                ]
+            }
         },
-        "address": "Địa chỉ: An Dương, Phường Yên Phụ, Quận Tây Hồ, Hà Nội",
-        "attributes": {
-          "price": "25 triệu/tháng",
-          "acreage": "200m2",
-          "published": "22/09/2023",
-          "hashtag": "633863"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "Cần cho thuê 2 tầng (tầng 1, tầng 2) nhà mặt phố An Dương. Nhà xây mới, hiện đại, có thang máy phù hợp với văn phòng, cửa hàng trưng bày sản phẩm, lớp học, spa hoặc ngân hàng... Nhà nằm ở vị trí trung tâm Hà Nội, cách đường Thanh Niên 650m, đường trước nhà 6m, nằm trong khu dân trí cao.",
-          "Diện tích sàn mỗi tầng là 110m², mặt tiền 6m, có gara để xe ô tô và xe máy.",
-          "Ô tô đỗ cửa. Chủ thân thiện, dễ tính.",
-          "Giá thỏa thuận."
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#633863" },
-          {
-            "name": "Khu vực",
-            "content": "Cho thuê mặt bằng, văn phòng Hà Nội"
-          },
-          {
-            "name": "Loại tin rao:",
-            "content": "Cho thuê mặt bằng, văn phòng"
-          },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin thường" },
-          { "name": "Ngày đăng:", "content": "Thứ 6, 10:42 22/09/2023" },
-          { "name": "Ngày hết hạn:", "content": "Chủ Nhật, 10:42 22/10/2023" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "Lê Ngọc Hùng" },
-          { "name": "Điện thoại:", "content": "0968846969" },
-          { "name": "Zalo", "content": "0968846969" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/12/07/67-lvl_1638847167.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/12/07/67-lvl_1638847167.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/12/07/67-lvl_1638847167.jpg"
-      ],
-      "header": {
-        "title": "Cho thuê cửa hàng tại 67 Lê Văn Lương",
-        "class": {
-          "content": "Chuyên mục: Cho thuê mặt bằng, văn phòng Quận Cầu Giấy",
-          "classType": "Cho thuê mặt bằng, văn phòng Quận Cầu Giấy"
+        {
+            "images": [],
+            "header": {
+                "title": "Cho thuê văn phòng ở Toà nhà Landmark 81 Đường Điện Biên Phủ, Phường 22, Quận Bình Thạnh",
+                "class": {
+                    "content": "Chuyên mục: Cho thuê mặt bằng Quận Bình Thạnh",
+                    "classType": "Cho thuê mặt bằng Quận Bình Thạnh"
+                },
+                "address": "Địa chỉ: Toà nhà Landmark 81 Đường Điện Biên Phủ, Phường 22, Quận Bình Thạnh, Hồ Chí Minh",
+                "attributes": {
+                    "price": "240 triệu/tháng",
+                    "acreage": "407m2",
+                    "published": "01/08/2022",
+                    "hashtag": "605201"
+                }
+            },
+            "mainContent": {
+                "header": "Thông tin mô tả",
+                "content": [
+                    "Cho thuê văn phòng ở Toà nhà Landmark 81  Đường Điện Biên Phủ, Phường 22, Quận Bình Thạnh",
+                    "Tổng diện tích 407m2",
+                    "Sang trọng hiện đại tiện nghi bật nhất",
+                    "mọi chi tiết vui lòng liên hệ trực tiếp Ms. Bình 0909488724"
+                ]
+            },
+            "overview": {
+                "header": "Đặc điểm tin đăng",
+                "content": [
+                    {
+                        "name": "Mã tin:",
+                        "content": "#605201"
+                    },
+                    {
+                        "name": "Khu vực",
+                        "content": "Cho thuê mặt bằng Hồ Chí Minh"
+                    },
+                    {
+                        "name": "Loại tin rao:",
+                        "content": "Cho thuê mặt bằng"
+                    },
+                    {
+                        "name": "Đối tượng thuê:",
+                        "content": "Tất cả"
+                    },
+                    {
+                        "name": "Gói tin:",
+                        "content": "Tin miễn phí"
+                    },
+                    {
+                        "name": "Ngày đăng:",
+                        "content": "Thứ 2, 15:42 01/08/2022"
+                    },
+                    {
+                        "name": "Ngày hết hạn:",
+                        "content": "Thứ 7, 15:42 06/08/2022"
+                    }
+                ]
+            },
+            "contact": {
+                "header": "Thông tin liên hệ",
+                "content": [
+                    {
+                        "name": "Liên hệ:",
+                        "content": "huỳnh huệ bình"
+                    },
+                    {
+                        "name": "Điện thoại:",
+                        "content": "0909488724"
+                    },
+                    {
+                        "name": "Zalo",
+                        "content": "0909488724"
+                    }
+                ]
+            }
         },
-        "address": "Địa chỉ: 67 Đường Lê Văn Lương, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",
-        "attributes": {
-          "price": "26 triệu/tháng",
-          "acreage": "50m2",
-          "published": "21/09/2023",
-          "hashtag": "309219"
+        {
+            "images": [
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/01/z3563363842420-bd99a0306b5d81e26735a95ea9a05e91_1659326198.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/01/z3563363799805-2293796af84bb4b3c13dd2773c509abe_1659326193.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/01/z3563363806313-f414f1e0dfefb1c4a394c746c620a23b_1659326193.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/01/z3563363812719-a97c90dd163aaac614e1d9ad1c44fc19_1659326194.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/01/z3563363812332-95d0bbbaebb6973587ac028725b07afc_1659326194.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/01/z3563363808230-8574725a1ae5a5a9330af48fd75dc49e_1659326195.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/01/z3563363812763-b1560d3dbe9a58f6965b120012b298eb_1659326195.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/01/z3563363822093-53ea38449a1be9cfea6ea9ed38ef301b_1659326196.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/01/z3563363823042-01094297177700ce86acfa358c7417e0_1659326196.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/01/z3563363826795-5112448dcbe1bd07709847e306493c2d_1659326196.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/01/z3563363829045-630a2414753f8688695423b3b062a47b_1659326196.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/01/z3563363834447-857f05e1e1c140f30d813ad00d401391_1659326197.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/01/z3563363838476-797bac5839bea942be44506352178aa3_1659326197.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/01/z3563363848378-812420eb6d1f51d6bc66d589585a9a13_1659326197.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/01/z3563363842420-bd99a0306b5d81e26735a95ea9a05e91_1659326198.jpg",
+                "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/01/z3563363799805-2293796af84bb4b3c13dd2773c509abe_1659326193.jpg"
+            ],
+            "header": {
+                "title": "Cho Thuê Mb VP Cty , Full Nội Thất , Máy Lạnh Các Phòng , 140m2 , 1T , 1 Lửng , Ngã Tư Bình Phước",
+                "class": {
+                    "content": "Chuyên mục: Cho thuê mặt bằng Quận Thủ Đức",
+                    "classType": "Cho thuê mặt bằng Quận Thủ Đức"
+                },
+                "address": "Địa chỉ: 23/22B 12, Phường Hiệp Bình Phước, Quận Thủ Đức, Hồ Chí Minh",
+                "attributes": {
+                    "price": "18 triệu/tháng",
+                    "acreage": "140m2",
+                    "published": "01/08/2022",
+                    "hashtag": "605178"
+                }
+            },
+            "mainContent": {
+                "header": "Thông tin mô tả",
+                "content": [
+                    "-Cho thuê Mặt Bằng Trệt và Lửng làm Văn Phòng Cty , nằm trong Toà Nhà Phố Cao Cấp , có đầy đủ nội thất.",
+                    "-Vị Trí “ Tuyệt Đẹp “ góc 2 Mặt Tiền , Đông Bắc và Đông Nam phù hợp phong thuỷ với hầu hết các tuổi.",
+                    "+ Dt : 140m2",
+                    "Gồm : 1 Vp trệt , 2 vp tầng Lửng ( Phòng sếp & phòng họp)",
+                    "-Bán kính từ 3km – 5km",
+                    "+ Đh Luật , Phạm Văn Đồng , Vạn Phúc City , thuận tiện đi Bình Thạnh , Gò Vấp ..!",
+                    "-Dọc theo QL1A :",
+                    "+ Về An sương , q12 và Củ chi….!",
+                    "+ Về Linh xuân , Xa Lộ Hà Nội , ngã tư thủ đức , chợ đầu mối nông sản.",
+                    "-Cách ngã tư Bình Phước chỉ 500m , ngay chân cầu Vĩnh Bình ( qua cầu là Bình Dương ).",
+                    "-Giá : 18 Triệu / Tháng . Điện 4k . Nước 20k",
+                    "-Phù Hơp làm Vp Cty , IT , Tư Vấn , CSKH , …!",
+                    "-Đường trải nhựa 8m , ko ngập , oto có thể ra vào thoải mái , dân cư hiện hửu , an ninh .!",
+                    "-- Liên Hệ : Bền Nguyễn , Zalo 0904 509 552 ( Tư Vấn 24/24)."
+                ]
+            },
+            "overview": {
+                "header": "Đặc điểm tin đăng",
+                "content": [
+                    {
+                        "name": "Mã tin:",
+                        "content": "#605178"
+                    },
+                    {
+                        "name": "Khu vực",
+                        "content": "Cho thuê mặt bằng Hồ Chí Minh"
+                    },
+                    {
+                        "name": "Loại tin rao:",
+                        "content": "Cho thuê mặt bằng"
+                    },
+                    {
+                        "name": "Đối tượng thuê:",
+                        "content": "Tất cả"
+                    },
+                    {
+                        "name": "Gói tin:",
+                        "content": "Tin thường"
+                    },
+                    {
+                        "name": "Ngày đăng:",
+                        "content": "Thứ 2, 10:57 01/08/2022"
+                    },
+                    {
+                        "name": "Ngày hết hạn:",
+                        "content": "Thứ 2, 10:57 08/08/2022"
+                    }
+                ]
+            },
+            "contact": {
+                "header": "Thông tin liên hệ",
+                "content": [
+                    {
+                        "name": "Liên hệ:",
+                        "content": "Nguyễn Văn Bên"
+                    },
+                    {
+                        "name": "Điện thoại:",
+                        "content": "0904509552"
+                    },
+                    {
+                        "name": "Zalo",
+                        "content": "0904509552"
+                    }
+                ]
+            }
         }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "Cho thuê cửa hàng tại 67 Lê Văn Lương ngay chân cầu vượt Láng Hạ, diện tích ~50m2, mặt tiền 4.5m, hướng Đông Nam, 1 tầng, cho thuê giá 26tr/tháng. Miễn trung gian, môi giới. Liên hệ chị Yên để xem cửa hàng tại mọi thời gian trong ngày."
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#309219" },
-          {
-            "name": "Khu vực",
-            "content": "Cho thuê mặt bằng, văn phòng Hà Nội"
-          },
-          {
-            "name": "Loại tin rao:",
-            "content": "Cho thuê mặt bằng, văn phòng"
-          },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin thường" },
-          { "name": "Ngày đăng:", "content": "Thứ 5, 08:59 21/09/2023" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 6, 09:43 29/09/2023" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "Nguyen Thi Yen" },
-          { "name": "Điện thoại:", "content": "0366195101" },
-          { "name": "Zalo", "content": "0366195101" }
-        ]
-      }
-    }
-  ]
+    ]
 }

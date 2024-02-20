@@ -15,6 +15,7 @@ const sequelize = new Sequelize(
         rejectUnauthorized: false, // This line will fix new error
       },
     },
+    timezone: "+07:00",
   }
 );
 
